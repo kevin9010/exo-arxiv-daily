@@ -4,7 +4,8 @@ show_downloads: true
 #theme: jekyll-theme-slate
 theme: Yummy-Jekyll
 
-remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/slate@v0.2.0
+remote_theme: DONGChuan/Yummy-Jekyll
 plugins:
 - jekyll-remote-theme 
 
