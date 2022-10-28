@@ -38,12 +38,12 @@
 
 <p align=right>(<a href=#Updated-on-20221028>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/kevin9010/exo-arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/kevin9010/exo-arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kevin9010/exo-arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/kevin9010/exo-arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/kevin9010/exo-arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/kevin9010/exo-arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kevin9010/exo-arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/kevin9010/exo-arxiv-daily/issues
 
