@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.11.08
+## Updated on 2022.11.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@ layout: default
 |**2020-02-21**|**Nonlinearity Compensation in a Multi-DoF Shoulder Sensing Exosuit for Real-Time Teleoperation**|Rejin John Varghese et.al.|[2002.09195v1](http://arxiv.org/abs/2002.09195v1)|null|
 |**2019-10-10**|**Design and Prototyping of a Bio-inspired Kinematic Sensing Suit for the Shoulder Joint: Precursor to a Multi-DoF Shoulder Exosuit**|Rejin John Varghese et.al.|[1910.04787v1](http://arxiv.org/abs/1910.04787v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 ## EXOSKELETON
 
@@ -44,7 +44,7 @@ layout: default
 |**2022-09-05**|**Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**|Anant Jain et.al.|[2209.01932v1](http://arxiv.org/abs/2209.01932v1)|null|
 |**2022-09-29**|**Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**|Mahdi Hejrati et.al.|[2208.12184v2](http://arxiv.org/abs/2208.12184v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/kevin9010/exo-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/kevin9010/exo-arxiv-daily/graphs/contributors
