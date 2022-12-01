@@ -227,7 +227,7 @@ if __name__ == "__main__":
     keywords = dict()
     keywords["EXOSUIT"]                = "exosuit"
     keywords["EXOSKELETON"]            = "exoskeleton"
-    keywords["ExoRL"]            = "\"exoskeleton\"AND\"Reinforcement learning\""
+#     keywords["ExoRL"]            = "\"exoskeleton\"AND\"Reinforcement learning\""
 #     keywords["EsuitRL"]          = "\"exosuit\"AND\"Reinforcement learning\""
 #     keywords["EsuitMD"]          = "\"exosuit\"AND\"Multi model\""
 #     keywords["ExoD"]          = "\"exoskeleton\"AND\"Multi model\""
