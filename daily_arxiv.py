@@ -227,6 +227,7 @@ if __name__ == "__main__":
     keywords = dict()
     keywords["EXOSUIT"]                = "exosuit"
     keywords["EXOSKELETON"]            = "exoskeleton"
+    keywords["NeRF"]                = "NeRF"
 #     keywords["ExoRL"]            = "\"exoskeleton\"AND\"Reinforcement learning\""
 #     keywords["EsuitRL"]          = "\"exosuit\"AND\"Reinforcement learning\""
 #     keywords["EsuitMD"]          = "\"exosuit\"AND\"Multi model\""
@@ -234,7 +235,7 @@ if __name__ == "__main__":
 #     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\"OR\"image retrieval\""
 #     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
 #     keywords["Image Matching"]      = "\"Image Matching\"OR\"Keypoint Matching\""
-    keywords["NeRF"]                = "NeRF"
+#     keywords["NeRF"]                = "NeRF"
 
     for topic,keyword in keywords.items():
  
