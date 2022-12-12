@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.12.11
+> Updated on 2022.12.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@
 - 2020-02-21, **Nonlinearity Compensation in a Multi-DoF Shoulder Sensing Exosuit for Real-Time Teleoperation**, Rejin John Varghese et.al., Paper: [http://arxiv.org/abs/2002.09195v1](http://arxiv.org/abs/2002.09195v1)
 - 2019-10-10, **Design and Prototyping of a Bio-inspired Kinematic Sensing Suit for the Shoulder Joint: Precursor to a Multi-DoF Shoulder Exosuit**, Rejin John Varghese et.al., Paper: [http://arxiv.org/abs/1910.04787v1](http://arxiv.org/abs/1910.04787v1)
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## EXOSKELETON
 
@@ -42,7 +42,7 @@
 - 2022-09-05, **Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**, Anant Jain et.al., Paper: [http://arxiv.org/abs/2209.01932v1](http://arxiv.org/abs/2209.01932v1)
 - 2022-09-29, **Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**, Mahdi Hejrati et.al., Paper: [http://arxiv.org/abs/2208.12184v2](http://arxiv.org/abs/2208.12184v2)
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## SLAM
 
@@ -65,7 +65,7 @@
 - 2022-11-24, **Data Fusion for Multipath-Based SLAM: Combing Information from Multiple Propagation Paths**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v2](http://arxiv.org/abs/2211.09241v2)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## SFM
 
@@ -82,7 +82,7 @@
 - 2022-10-07, **Leveraging Structure from Motion to Localize Inaccessible Bus Stops**, Indu Panigrahi et.al., Paper: [http://arxiv.org/abs/2210.03646v1](http://arxiv.org/abs/2210.03646v1), Code: **[https://github.com/ind1010/SfM_for_BusEdge](https://github.com/ind1010/SfM_for_BusEdge)**
 - 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -90,12 +90,12 @@
 - 2022-12-08, **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**, Gowthami Somepalli et.al., Paper: [http://arxiv.org/abs/2212.03860v2](http://arxiv.org/abs/2212.03860v2)
 - 2022-12-07, **LSVL: Large-scale season-invariant visual localization for UAVs**, Jouko Kinnari et.al., Paper: [http://arxiv.org/abs/2212.03581v1](http://arxiv.org/abs/2212.03581v1)
 - 2022-12-06, **ADIR: Adaptive Diffusion for Image Reconstruction**, Shady Abu-Hussein et.al., Paper: [http://arxiv.org/abs/2212.03221v1](http://arxiv.org/abs/2212.03221v1)
-- 2022-12-04, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v1](http://arxiv.org/abs/2212.03177v1), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
+- 2022-12-08, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v2](http://arxiv.org/abs/2212.03177v2), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
 - 2022-12-06, **Semantic Communication for Internet of Vehicles: A Multi-User Cooperative Approach**, Wenjun Xu et.al., Paper: [http://arxiv.org/abs/2212.03037v1](http://arxiv.org/abs/2212.03037v1)
 - 2022-12-06, **Attention-Enhanced Cross-modal Localization Between 360 Images and Point Clouds**, Zhipeng Zhao et.al., Paper: [http://arxiv.org/abs/2212.02757v1](http://arxiv.org/abs/2212.02757v1)
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 - 2022-12-02, **Information Retrieval from the Digitized Books**, Riya Gupta et.al., Paper: [http://arxiv.org/abs/2212.00999v1](http://arxiv.org/abs/2212.00999v1)
-- 2022-12-02, **StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2212.00937v1](http://arxiv.org/abs/2212.00937v1)
+- 2022-12-09, **StructVPR: Distill Structural Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2212.00937v2](http://arxiv.org/abs/2212.00937v2)
 - 2022-11-30, **Self-Supervised Feature Learning for Long-Term Metric Visual Localization**, Yuxuan Chen et.al., Paper: [http://arxiv.org/abs/2212.00122v1](http://arxiv.org/abs/2212.00122v1)
 - 2022-11-30, **SGDraw: Scene Graph Drawing Interface Using Object-Oriented Representation**, Tianyu Zhang et.al., Paper: [http://arxiv.org/abs/2211.16697v1](http://arxiv.org/abs/2211.16697v1)
 - 2022-11-28, **SLAN: Self-Locator Aided Network for Cross-Modal Understanding**, Jiang-Tian Zhai et.al., Paper: [http://arxiv.org/abs/2211.16208v1](http://arxiv.org/abs/2211.16208v1)
@@ -108,13 +108,13 @@
 - 2022-11-26, **Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2211.14515v1](http://arxiv.org/abs/2211.14515v1), Code: **[https://github.com/fandulu/IHDA](https://github.com/fandulu/IHDA)**
 - 2022-11-30, **Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**, Floriana Ciaglia et.al., Paper: [http://arxiv.org/abs/2211.13523v3](http://arxiv.org/abs/2211.13523v3), Code: **[https://github.com/roboflow-ai/roboflow-100-benchmark](https://github.com/roboflow-ai/roboflow-100-benchmark)**
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Keypoint Detection
 
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-12-07, **Designing Feature Vector Representations: A case study from Chemistry**, Signe Sidwall Thygesen et.al., Paper: [http://arxiv.org/abs/2212.03731v1](http://arxiv.org/abs/2212.03731v1)
-- 2022-12-06, **DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**, Jeongjun Choi et.al., Paper: [http://arxiv.org/abs/2212.02796v1](http://arxiv.org/abs/2212.02796v1)
+- 2022-12-09, **DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**, Jeongjun Choi et.al., Paper: [http://arxiv.org/abs/2212.02796v2](http://arxiv.org/abs/2212.02796v2)
 - 2022-12-05, **Images Speak in Images: A Generalist Painter for In-Context Visual Learning**, Xinlong Wang et.al., Paper: [http://arxiv.org/abs/2212.02499v1](http://arxiv.org/abs/2212.02499v1), Code: **[https://github.com/baaivision/painter](https://github.com/baaivision/painter)**
 - 2022-12-06, **R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**, Bai Zhu et.al., Paper: [http://arxiv.org/abs/2212.02277v2](http://arxiv.org/abs/2212.02277v2)
 - 2022-11-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v1](http://arxiv.org/abs/2211.15069v1)
@@ -128,7 +128,7 @@
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## Image Matching
 
@@ -147,7 +147,7 @@
 - 2022-09-22, **DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**, Chao Li et.al., Paper: [http://arxiv.org/abs/2209.10907v1](http://arxiv.org/abs/2209.10907v1)
 - 2022-09-16, **SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence**, Lei Li et.al., Paper: [http://arxiv.org/abs/2209.07806v1](http://arxiv.org/abs/2209.07806v1), Code: **[https://github.com/craigleili/srfeat](https://github.com/craigleili/srfeat)**
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 ## NeRF
 
@@ -178,7 +178,7 @@
 - 2022-11-27, **Sampling Neural Radiance Fields for Refractive Objects**, Jen-I Pan et.al., Paper: [http://arxiv.org/abs/2211.14799v1](http://arxiv.org/abs/2211.14799v1), Code: **[https://github.com/alexkeroro86/samplenerfro](https://github.com/alexkeroro86/samplenerfro)**
 - 2022-11-25, **3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**, Gang Li et.al., Paper: [http://arxiv.org/abs/2211.14108v1](http://arxiv.org/abs/2211.14108v1)
 
-<p align=right>(<a href=#Updated-on-20221211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
