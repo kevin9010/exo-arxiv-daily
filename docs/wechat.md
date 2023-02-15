@@ -46,6 +46,8 @@
 
 ## SLAM
 
+- 2023-02-14, **ConceptFusion: Open-set Multimodal 3D Mapping**, Krishna Murthy Jatavallabhula et.al., Paper: [http://arxiv.org/abs/2302.07241v1](http://arxiv.org/abs/2302.07241v1)
+- 2023-02-13, **Simplified Continuous High Dimensional Belief Space Planning with Adaptive Probabilistic Belief-dependent Constraints**, Andrey Zhitnikov et.al., Paper: [http://arxiv.org/abs/2302.06697v1](http://arxiv.org/abs/2302.06697v1)
 - 2023-02-13, **Mini bot 3D: A ROS based Gazebo Simulation**, B. Udugama et.al., Paper: [http://arxiv.org/abs/2302.06368v1](http://arxiv.org/abs/2302.06368v1)
 - 2023-02-13, **Evolution of SLAM: Toward the Robust-Perception of Autonomy**, B. Udugama et.al., Paper: [http://arxiv.org/abs/2302.06365v1](http://arxiv.org/abs/2302.06365v1)
 - 2023-02-08, **Task Space Control of Robot Manipulators based on Visual SLAM**, Seyed Hamed Hashemi et.al., Paper: [http://arxiv.org/abs/2302.04163v1](http://arxiv.org/abs/2302.04163v1)
@@ -145,7 +147,7 @@
 - 2023-02-13, **Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval**, Xu Wang et.al., Paper: [http://arxiv.org/abs/2302.06081v1](http://arxiv.org/abs/2302.06081v1)
 - 2023-02-11, **Sketch Less Face Image Retrieval: A New Challenge**, Dawei Dai et.al., Paper: [http://arxiv.org/abs/2302.05576v1](http://arxiv.org/abs/2302.05576v1), Code: **[https://github.com/ddw2aigroup2cqupt/slfir](https://github.com/ddw2aigroup2cqupt/slfir)**
 - 2023-02-10, **Is multi-modal vision supervision beneficial to language?**, Avinash Madasu et.al., Paper: [http://arxiv.org/abs/2302.05016v1](http://arxiv.org/abs/2302.05016v1)
-- 2023-02-06, **Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval**, Kuniaki Saito et.al., Paper: [http://arxiv.org/abs/2302.03084v1](http://arxiv.org/abs/2302.03084v1)
+- 2023-02-06, **Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval**, Kuniaki Saito et.al., Paper: [http://arxiv.org/abs/2302.03084v1](http://arxiv.org/abs/2302.03084v1), Code: **[https://github.com/google-research/composed_image_retrieval](https://github.com/google-research/composed_image_retrieval)**
 - 2023-02-06, **Probabilistic Contrastive Learning Recovers the Correct Aleatoric Uncertainty of Ambiguous Inputs**, Michael Kirchhof et.al., Paper: [http://arxiv.org/abs/2302.02865v1](http://arxiv.org/abs/2302.02865v1), Code: **[https://github.com/mkirchhof/probabilistic_contrastive_learning](https://github.com/mkirchhof/probabilistic_contrastive_learning)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-02-04, **Bayesian Metric Learning for Uncertainty Quantification in Image Retrieval**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2302.01332v2](http://arxiv.org/abs/2302.01332v2), Code: **[https://github.com/frederikwarburg/bayesian-metric-learning](https://github.com/frederikwarburg/bayesian-metric-learning)**
@@ -261,6 +263,7 @@
 
 ## NeRF
 
+- 2023-02-14, **VQ3D: Learning a 3D-Aware Generative Model on ImageNet**, Kyle Sargent et.al., Paper: [http://arxiv.org/abs/2302.06833v1](http://arxiv.org/abs/2302.06833v1)
 - 2023-02-13, **3D-aware Blending with Generative NeRFs**, Hyunsu Kim et.al., Paper: [http://arxiv.org/abs/2302.06608v1](http://arxiv.org/abs/2302.06608v1)
 - 2023-02-11, **3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**, Bo Li et.al., Paper: [http://arxiv.org/abs/2302.05573v1](http://arxiv.org/abs/2302.05573v1)
 - 2023-02-08, **Nerfstudio: A Modular Framework for Neural Radiance Field Development**, Matthew Tancik et.al., Paper: [http://arxiv.org/abs/2302.04264v1](http://arxiv.org/abs/2302.04264v1)
