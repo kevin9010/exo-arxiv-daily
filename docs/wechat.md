@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.03.30
+> Updated on 2023.03.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@
 - 2020-02-21, **Nonlinearity Compensation in a Multi-DoF Shoulder Sensing Exosuit for Real-Time Teleoperation**, Rejin John Varghese et.al., Paper: [http://arxiv.org/abs/2002.09195v1](http://arxiv.org/abs/2002.09195v1)
 - 2019-10-10, **Design and Prototyping of a Bio-inspired Kinematic Sensing Suit for the Shoulder Joint: Precursor to a Multi-DoF Shoulder Exosuit**, Rejin John Varghese et.al., Paper: [http://arxiv.org/abs/1910.04787v1](http://arxiv.org/abs/1910.04787v1)
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## EXOSKELETON
 
@@ -42,13 +42,13 @@
 - 2022-09-05, **Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**, Anant Jain et.al., Paper: [http://arxiv.org/abs/2209.01932v1](http://arxiv.org/abs/2209.01932v1)
 - 2022-09-29, **Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**, Mahdi Hejrati et.al., Paper: [http://arxiv.org/abs/2208.12184v2](http://arxiv.org/abs/2208.12184v2)
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## SLAM
 
 - 2023-03-29, **Photometric LiDAR and RGB-D Bundle Adjustment**, Luca Di Giammarino et.al., Paper: [http://arxiv.org/abs/2303.16878v1](http://arxiv.org/abs/2303.16878v1), Code: **[https://github.com/digiamm/ba_md_slam](https://github.com/digiamm/ba_md_slam)**
-- 2023-03-29, **Toroidal cavitation by a snapping popper**, Akihito Kiyama et.al., Paper: [http://arxiv.org/abs/2303.16702v1](http://arxiv.org/abs/2303.16702v1)
-- 2023-03-29, **AirLine: Efficient Learnable Line Detection with Local Edge Voting**, Xiao Lin et.al., Paper: [http://arxiv.org/abs/2303.16500v1](http://arxiv.org/abs/2303.16500v1)
+- 2023-03-30, **Toroidal cavitation by a snapping popper**, Akihito Kiyama et.al., Paper: [http://arxiv.org/abs/2303.16702v2](http://arxiv.org/abs/2303.16702v2)
+- 2023-03-29, **AirLine: Efficient Learnable Line Detection with Local Edge Voting**, Xiao Lin et.al., Paper: [http://arxiv.org/abs/2303.16500v1](http://arxiv.org/abs/2303.16500v1), Code: **[https://github.com/sair-lab/airline](https://github.com/sair-lab/airline)**
 - 2023-03-24, **GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM**, Qiangqiang Huang et.al., Paper: [http://arxiv.org/abs/2303.14283v1](http://arxiv.org/abs/2303.14283v1), Code: **[https://github.com/doublestrong/gapslam](https://github.com/doublestrong/gapslam)**
 - 2023-03-24, **Nonlinear Dual control based on Fast Moving Horizon estimation and Model Predictive Control with an observability constraint**, Emilien Flayac et.al., Paper: [http://arxiv.org/abs/2303.13993v1](http://arxiv.org/abs/2303.13993v1)
 - 2023-03-24, **4D iRIOM: 4D Imaging Radar Inertial Odometry and Mapping**, Yuan Zhuang et.al., Paper: [http://arxiv.org/abs/2303.13962v1](http://arxiv.org/abs/2303.13962v1)
@@ -164,7 +164,7 @@
 - 2022-11-24, **Data Fusion for Multipath-Based SLAM: Combing Information from Multiple Propagation Paths**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v2](http://arxiv.org/abs/2211.09241v2)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## SFM
 
@@ -197,11 +197,11 @@
 - 2022-10-07, **Leveraging Structure from Motion to Localize Inaccessible Bus Stops**, Indu Panigrahi et.al., Paper: [http://arxiv.org/abs/2210.03646v1](http://arxiv.org/abs/2210.03646v1), Code: **[https://github.com/ind1010/SfM_for_BusEdge](https://github.com/ind1010/SfM_for_BusEdge)**
 - 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Visual Localization
 
-- 2023-03-29, **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**, Weicheng Kuo et.al., Paper: [http://arxiv.org/abs/2303.16839v1](http://arxiv.org/abs/2303.16839v1)
+- 2023-03-30, **MaMMUT: A Simple Architecture for Joint Learning for MultiModal Tasks**, Weicheng Kuo et.al., Paper: [http://arxiv.org/abs/2303.16839v2](http://arxiv.org/abs/2303.16839v2)
 - 2023-03-29, **Sketch-an-Anchor: Sub-epoch Fast Model Adaptation for Zero-shot Sketch-based Image Retrieval**, Leo Sampaio Ferraz Ribeiro et.al., Paper: [http://arxiv.org/abs/2303.16769v1](http://arxiv.org/abs/2303.16769v1)
 - 2023-03-29, **Bi-directional Training for Composed Image Retrieval via Text Prompt Learning**, Zheyuan Liu et.al., Paper: [http://arxiv.org/abs/2303.16604v1](http://arxiv.org/abs/2303.16604v1)
 - 2023-03-27, **Model Cascades for Efficient Image Search**, Robert Hönig et.al., Paper: [http://arxiv.org/abs/2303.15595v1](http://arxiv.org/abs/2303.15595v1)
@@ -307,7 +307,7 @@
 - 2022-11-26, **Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2211.14515v1](http://arxiv.org/abs/2211.14515v1), Code: **[https://github.com/fandulu/IHDA](https://github.com/fandulu/IHDA)**
 - 2022-11-30, **Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**, Floriana Ciaglia et.al., Paper: [http://arxiv.org/abs/2211.13523v3](http://arxiv.org/abs/2211.13523v3), Code: **[https://github.com/roboflow-ai/roboflow-100-benchmark](https://github.com/roboflow-ai/roboflow-100-benchmark)**
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -355,7 +355,7 @@
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## Image Matching
 
@@ -398,7 +398,7 @@
 - 2022-09-22, **DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**, Chao Li et.al., Paper: [http://arxiv.org/abs/2209.10907v1](http://arxiv.org/abs/2209.10907v1)
 - 2022-09-16, **SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence**, Lei Li et.al., Paper: [http://arxiv.org/abs/2209.07806v1](http://arxiv.org/abs/2209.07806v1), Code: **[https://github.com/craigleili/srfeat](https://github.com/craigleili/srfeat)**
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 ## NeRF
 
@@ -407,7 +407,7 @@
 - 2023-03-28, **Flow supervision for Deformable NeRF**, Chaoyang Wang et.al., Paper: [http://arxiv.org/abs/2303.16333v1](http://arxiv.org/abs/2303.16333v1)
 - 2023-03-28, **SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2303.16196v1](http://arxiv.org/abs/2303.16196v1)
 - 2023-03-28, **VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**, Yuan-Chen Guo et.al., Paper: [http://arxiv.org/abs/2303.16184v1](http://arxiv.org/abs/2303.16184v1)
-- 2023-03-28, **Adaptive Voronoi NeRFs**, Tim Elsner et.al., Paper: [http://arxiv.org/abs/2303.16001v1](http://arxiv.org/abs/2303.16001v1)
+- 2023-03-30, **Adaptive Voronoi NeRFs**, Tim Elsner et.al., Paper: [http://arxiv.org/abs/2303.16001v2](http://arxiv.org/abs/2303.16001v2)
 - 2023-03-28, **F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2303.15951v1](http://arxiv.org/abs/2303.15951v1)
 - 2023-03-27, **JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**, Xi Wang et.al., Paper: [http://arxiv.org/abs/2303.15427v1](http://arxiv.org/abs/2303.15427v1)
 - 2023-03-27, **Generalizable Neural Voxels for Fast Human Radiance Fields**, Taoran Yi et.al., Paper: [http://arxiv.org/abs/2303.15387v1](http://arxiv.org/abs/2303.15387v1)
@@ -560,7 +560,7 @@
 - 2022-11-27, **Sampling Neural Radiance Fields for Refractive Objects**, Jen-I Pan et.al., Paper: [http://arxiv.org/abs/2211.14799v1](http://arxiv.org/abs/2211.14799v1), Code: **[https://github.com/alexkeroro86/samplenerfro](https://github.com/alexkeroro86/samplenerfro)**
 - 2022-11-25, **3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**, Gang Li et.al., Paper: [http://arxiv.org/abs/2211.14108v1](http://arxiv.org/abs/2211.14108v1)
 
-<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
