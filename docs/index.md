@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -33,7 +33,7 @@ layout: default
 |**2020-02-21**|**Nonlinearity Compensation in a Multi-DoF Shoulder Sensing Exosuit for Real-Time Teleoperation**|Rejin John Varghese et.al.|[2002.09195v1](http://arxiv.org/abs/2002.09195v1)|null|
 |**2019-10-10**|**Design and Prototyping of a Bio-inspired Kinematic Sensing Suit for the Shoulder Joint: Precursor to a Multi-DoF Shoulder Exosuit**|Rejin John Varghese et.al.|[1910.04787v1](http://arxiv.org/abs/1910.04787v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## EXOSKELETON
 
@@ -50,7 +50,7 @@ layout: default
 |**2022-09-05**|**Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**|Anant Jain et.al.|[2209.01932v1](http://arxiv.org/abs/2209.01932v1)|null|
 |**2022-09-29**|**Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**|Mahdi Hejrati et.al.|[2208.12184v2](http://arxiv.org/abs/2208.12184v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## SLAM
 
@@ -246,13 +246,13 @@ layout: default
 |**2022-11-24**|**Data Fusion for Multipath-Based SLAM: Combing Information from Multiple Propagation Paths**|Erik Leitinger et.al.|[2211.09241v2](http://arxiv.org/abs/2211.09241v2)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-22**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v1](http://arxiv.org/abs/2306.12770v1)|null|
+|**2023-06-24**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770v2](http://arxiv.org/abs/2306.12770v2)|null|
 |**2023-06-15**|**NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**|Varun Jampani et.al.|[2306.09109v1](http://arxiv.org/abs/2306.09109v1)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012v1](http://arxiv.org/abs/2306.09012v1)|null|
 |**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360v1](http://arxiv.org/abs/2306.06360v1)|**[link](https://github.com/kshitijkarnawat/structure-from-motion)**|
@@ -298,7 +298,7 @@ layout: default
 |**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
 |**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|**[link](https://github.com/xtu-pr-lab/sanerf)**|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -308,7 +308,7 @@ layout: default
 |**2023-06-22**|**Deep Metric Learning with Soft Orthogonal Proxies**|Farshad Saberi-Movahed et.al.|[2306.13055v1](http://arxiv.org/abs/2306.13055v1)|null|
 |**2023-06-22**|**What to Learn: Features, Image Transformations, or Both?**|Yuxuan Chen et.al.|[2306.13040v1](http://arxiv.org/abs/2306.13040v1)|null|
 |**2023-06-22**|**Critical-Reflective Human-AI Collaboration: Exploring Computational Tools for Art Historical Image Retrieval**|Katrin Glinka et.al.|[2306.12843v1](http://arxiv.org/abs/2306.12843v1)|null|
-|**2023-06-20**|**Annotation Cost Efficient Active Learning for Content Based Image Retrieval**|Julia Henkel et.al.|[2306.11605v1](http://arxiv.org/abs/2306.11605v1)|null|
+|**2023-06-26**|**Annotation Cost Efficient Active Learning for Content Based Image Retrieval**|Julia Henkel et.al.|[2306.11605v2](http://arxiv.org/abs/2306.11605v2)|null|
 |**2023-06-19**|**Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**|Shivaen Ramshetty et.al.|[2306.11065v1](http://arxiv.org/abs/2306.11065v1)|**[link](https://github.com/claws-lab/multimodal-robustness-xmai)**|
 |**2023-06-18**|**LiDAR-Based Place Recognition For Autonomous Driving: A Survey**|Pengcheng Shi et.al.|[2306.10561v1](http://arxiv.org/abs/2306.10561v1)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012v1](http://arxiv.org/abs/2306.09012v1)|null|
@@ -508,7 +508,7 @@ layout: default
 |**2022-11-26**|**Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**|Fan Yang et.al.|[2211.14515v1](http://arxiv.org/abs/2211.14515v1)|**[link](https://github.com/fandulu/IHDA)**|
 |**2022-11-30**|**Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**|Floriana Ciaglia et.al.|[2211.13523v3](http://arxiv.org/abs/2211.13523v3)|**[link](https://github.com/roboflow-ai/roboflow-100-benchmark)**|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -572,7 +572,7 @@ layout: default
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-04**|**Centroid Distance Keypoint Detector for Colored Point Clouds**|Hanzhe Teng et.al.|[2210.01298v1](http://arxiv.org/abs/2210.01298v1)|**[link](https://github.com/ucr-robotics/ced_detector)**|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## Image Matching
 
@@ -636,7 +636,7 @@ layout: default
 |**2022-09-22**|**DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**|Chao Li et.al.|[2209.10907v1](http://arxiv.org/abs/2209.10907v1)|null|
 |**2022-09-16**|**SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence**|Lei Li et.al.|[2209.07806v1](http://arxiv.org/abs/2209.07806v1)|**[link](https://github.com/craigleili/srfeat)**|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## NeRF
 
@@ -647,7 +647,7 @@ layout: default
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
 |**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556v1](http://arxiv.org/abs/2306.11556v1)|null|
-|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350v1](http://arxiv.org/abs/2306.10350v1)|null|
+|**2023-06-24**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350v2](http://arxiv.org/abs/2306.10350v2)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551v1](http://arxiv.org/abs/2306.09551v1)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349v2](http://arxiv.org/abs/2306.09349v2)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068v1](http://arxiv.org/abs/2306.08068v1)|null|
@@ -932,7 +932,7 @@ layout: default
 |**2022-11-27**|**Sampling Neural Radiance Fields for Refractive Objects**|Jen-I Pan et.al.|[2211.14799v1](http://arxiv.org/abs/2211.14799v1)|**[link](https://github.com/alexkeroro86/samplenerfro)**|
 |**2022-11-25**|**3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**|Gang Li et.al.|[2211.14108v1](http://arxiv.org/abs/2211.14108v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
