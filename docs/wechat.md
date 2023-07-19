@@ -677,7 +677,7 @@
 
 ## NeRF
 
-- 2023-07-18, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323v1](http://arxiv.org/abs/2307.09323v1)
+- 2023-07-18, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323v1](http://arxiv.org/abs/2307.09323v1), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
 - 2023-07-16, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v1](http://arxiv.org/abs/2307.08093v1), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
 - 2023-07-15, **Improving NeRF with Height Data for Utilization of GIS Data**, Hinata Aoki et.al., Paper: [http://arxiv.org/abs/2307.07729v1](http://arxiv.org/abs/2307.07729v1)
 - 2023-07-11, **SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**, Zhengxin Lei et.al., Paper: [http://arxiv.org/abs/2307.05087v1](http://arxiv.org/abs/2307.05087v1)
