@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.21
+## Updated on 2023.07.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -33,7 +33,7 @@ layout: default
 |**2020-02-21**|**Nonlinearity Compensation in a Multi-DoF Shoulder Sensing Exosuit for Real-Time Teleoperation**|Rejin John Varghese et.al.|[2002.09195v1](http://arxiv.org/abs/2002.09195v1)|null|
 |**2019-10-10**|**Design and Prototyping of a Bio-inspired Kinematic Sensing Suit for the Shoulder Joint: Precursor to a Multi-DoF Shoulder Exosuit**|Rejin John Varghese et.al.|[1910.04787v1](http://arxiv.org/abs/1910.04787v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## EXOSKELETON
 
@@ -50,14 +50,14 @@ layout: default
 |**2022-09-05**|**Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**|Anant Jain et.al.|[2209.01932v1](http://arxiv.org/abs/2209.01932v1)|null|
 |**2022-09-29**|**Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**|Mahdi Hejrati et.al.|[2208.12184v2](http://arxiv.org/abs/2208.12184v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|**[link](https://github.com/yvanyin/metric3d)**|
-|**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|null|
+|**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|**[link](https://github.com/star-center/o-efmt)**|
 |**2023-07-18**|**LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation**|Kai Huang et.al.|[2307.09531v1](http://arxiv.org/abs/2307.09531v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
@@ -265,7 +265,7 @@ layout: default
 |**2022-11-24**|**Data Fusion for Multipath-Based SLAM: Combing Information from Multiple Propagation Paths**|Erik Leitinger et.al.|[2211.09241v2](http://arxiv.org/abs/2211.09241v2)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## SFM
 
@@ -323,7 +323,7 @@ layout: default
 |**2022-10-07**|**Leveraging Structure from Motion to Localize Inaccessible Bus Stops**|Indu Panigrahi et.al.|[2210.03646v1](http://arxiv.org/abs/2210.03646v1)|**[link](https://github.com/ind1010/SfM_for_BusEdge)**|
 |**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|**[link](https://github.com/xtu-pr-lab/sanerf)**|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -558,7 +558,7 @@ layout: default
 |**2022-11-26**|**Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**|Fan Yang et.al.|[2211.14515v1](http://arxiv.org/abs/2211.14515v1)|**[link](https://github.com/fandulu/IHDA)**|
 |**2022-11-30**|**Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**|Floriana Ciaglia et.al.|[2211.13523v3](http://arxiv.org/abs/2211.13523v3)|**[link](https://github.com/roboflow-ai/roboflow-100-benchmark)**|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -627,7 +627,7 @@ layout: default
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-04**|**Centroid Distance Keypoint Detector for Colored Point Clouds**|Hanzhe Teng et.al.|[2210.01298v1](http://arxiv.org/abs/2210.01298v1)|**[link](https://github.com/ucr-robotics/ced_detector)**|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## Image Matching
 
@@ -700,7 +700,7 @@ layout: default
 |**2022-09-22**|**DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**|Chao Li et.al.|[2209.10907v1](http://arxiv.org/abs/2209.10907v1)|null|
 |**2022-09-16**|**SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence**|Lei Li et.al.|[2209.07806v1](http://arxiv.org/abs/2209.07806v1)|**[link](https://github.com/craigleili/srfeat)**|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 ## NeRF
 
@@ -709,7 +709,7 @@ layout: default
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776v1](http://arxiv.org/abs/2307.10776v1)|null|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664v1](http://arxiv.org/abs/2307.10664v1)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135v1](http://arxiv.org/abs/2307.10135v1)|null|
-|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860v1](http://arxiv.org/abs/2307.09860v1)|null|
+|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860v1](http://arxiv.org/abs/2307.09860v1)|**[link](https://github.com/uhhhci/immersive-ngp)**|
 |**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555v1](http://arxiv.org/abs/2307.09555v1)|null|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323v1](http://arxiv.org/abs/2307.09323v1)|**[link](https://github.com/fictionarry/er-nerf)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
@@ -1011,7 +1011,7 @@ layout: default
 |**2022-11-27**|**Sampling Neural Radiance Fields for Refractive Objects**|Jen-I Pan et.al.|[2211.14799v1](http://arxiv.org/abs/2211.14799v1)|**[link](https://github.com/alexkeroro86/samplenerfro)**|
 |**2022-11-25**|**3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**|Gang Li et.al.|[2211.14108v1](http://arxiv.org/abs/2211.14108v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
