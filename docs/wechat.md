@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2023.08.14
+> Updated on 2023.08.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -27,7 +27,7 @@
 - 2020-02-21, **Nonlinearity Compensation in a Multi-DoF Shoulder Sensing Exosuit for Real-Time Teleoperation**, Rejin John Varghese et.al., Paper: [http://arxiv.org/abs/2002.09195v1](http://arxiv.org/abs/2002.09195v1)
 - 2019-10-10, **Design and Prototyping of a Bio-inspired Kinematic Sensing Suit for the Shoulder Joint: Precursor to a Multi-DoF Shoulder Exosuit**, Rejin John Varghese et.al., Paper: [http://arxiv.org/abs/1910.04787v1](http://arxiv.org/abs/1910.04787v1)
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## EXOSKELETON
 
@@ -42,7 +42,7 @@
 - 2022-09-05, **Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**, Anant Jain et.al., Paper: [http://arxiv.org/abs/2209.01932v1](http://arxiv.org/abs/2209.01932v1)
 - 2022-09-29, **Decentralized Nonlinear Control of Redundant Upper Limb Exoskeleton with Natural Adaptation Law**, Mahdi Hejrati et.al., Paper: [http://arxiv.org/abs/2208.12184v2](http://arxiv.org/abs/2208.12184v2)
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## SLAM
 
@@ -54,7 +54,7 @@
 - 2023-08-10, **How-to Augmented Lagrangian on Factor Graphs**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2308.05444v1](http://arxiv.org/abs/2308.05444v1)
 - 2023-08-10, **Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**, Miguel Arturo Vega Torres et.al., Paper: [http://arxiv.org/abs/2308.05443v1](http://arxiv.org/abs/2308.05443v1), Code: **[https://github.com/migvega/ogm2pgbm](https://github.com/migvega/ogm2pgbm)**
 - 2023-08-01, **NR-SLAM: Non-Rigid Monocular SLAM**, Juan J. Gomez Rodriguez et.al., Paper: [http://arxiv.org/abs/2308.04036v1](http://arxiv.org/abs/2308.04036v1)
-- 2023-08-08, **Multi-level Map Construction for Dynamic Scenes**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2308.04000v1](http://arxiv.org/abs/2308.04000v1)
+- 2023-08-08, **Multi-level Map Construction for Dynamic Scenes**, Xinggang Hu et.al., Paper: [http://arxiv.org/abs/2308.04000v1](http://arxiv.org/abs/2308.04000v1), Code: **[https://github.com/hbelief1998/dymlm-slam](https://github.com/hbelief1998/dymlm-slam)**
 - 2023-08-05, **VoxelMap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry**, Yifei Yuan et.al., Paper: [http://arxiv.org/abs/2308.02799v1](http://arxiv.org/abs/2308.02799v1), Code: **[https://github.com/uestc-icsp/voxelmapplus_public](https://github.com/uestc-icsp/voxelmapplus_public)**
 - 2023-08-04, **EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**, Weihan Wang et.al., Paper: [http://arxiv.org/abs/2308.02670v1](http://arxiv.org/abs/2308.02670v1)
 - 2023-08-03, **Uncertainty analysis for accurate ground truth trajectories with robotic total stations**, Maxime Vaidis et.al., Paper: [http://arxiv.org/abs/2308.01553v1](http://arxiv.org/abs/2308.01553v1)
@@ -274,7 +274,7 @@
 - 2022-11-24, **Data Fusion for Multipath-Based SLAM: Combing Information from Multiple Propagation Paths**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v2](http://arxiv.org/abs/2211.09241v2)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## SFM
 
@@ -336,7 +336,7 @@
 - 2022-10-07, **Leveraging Structure from Motion to Localize Inaccessible Bus Stops**, Indu Panigrahi et.al., Paper: [http://arxiv.org/abs/2210.03646v1](http://arxiv.org/abs/2210.03646v1), Code: **[https://github.com/ind1010/SfM_for_BusEdge](https://github.com/ind1010/SfM_for_BusEdge)**
 - 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -583,11 +583,11 @@
 - 2022-11-26, **Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2211.14515v1](http://arxiv.org/abs/2211.14515v1), Code: **[https://github.com/fandulu/IHDA](https://github.com/fandulu/IHDA)**
 - 2022-11-30, **Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark**, Floriana Ciaglia et.al., Paper: [http://arxiv.org/abs/2211.13523v3](http://arxiv.org/abs/2211.13523v3), Code: **[https://github.com/roboflow-ai/roboflow-100-benchmark](https://github.com/roboflow-ai/roboflow-100-benchmark)**
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## Keypoint Detection
 
-- 2023-08-10, **2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**, Minhao Li et.al., Paper: [http://arxiv.org/abs/2308.05667v1](http://arxiv.org/abs/2308.05667v1)
+- 2023-08-14, **2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**, Minhao Li et.al., Paper: [http://arxiv.org/abs/2308.05667v2](http://arxiv.org/abs/2308.05667v2)
 - 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
 - 2023-07-25, **Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**, Chuanyu Luo et.al., Paper: [http://arxiv.org/abs/2307.13300v1](http://arxiv.org/abs/2307.13300v1)
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
@@ -653,7 +653,7 @@
 - 2022-10-09, **Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2210.04236v1](http://arxiv.org/abs/2210.04236v1)
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## Image Matching
 
@@ -728,14 +728,14 @@
 - 2022-09-22, **DRKF: Distilled Rotated Kernel Fusion for Efficiently Boosting Rotation Invariance in Image Matching**, Chao Li et.al., Paper: [http://arxiv.org/abs/2209.10907v1](http://arxiv.org/abs/2209.10907v1)
 - 2022-09-16, **SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence**, Lei Li et.al., Paper: [http://arxiv.org/abs/2209.07806v1](http://arxiv.org/abs/2209.07806v1), Code: **[https://github.com/craigleili/srfeat](https://github.com/craigleili/srfeat)**
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## NeRF
 
 - 2023-08-11, **Focused Specific Objects NeRF**, Yuesong Li et.al., Paper: [http://arxiv.org/abs/2308.05970v1](http://arxiv.org/abs/2308.05970v1)
 - 2023-08-11, **VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**, Dominic Maggio et.al., Paper: [http://arxiv.org/abs/2308.05939v1](http://arxiv.org/abs/2308.05939v1)
 - 2023-08-09, **WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**, Muyu Xu et.al., Paper: [http://arxiv.org/abs/2308.04826v1](http://arxiv.org/abs/2308.04826v1)
-- 2023-08-09, **A General Implicit Framework for Fast NeRF Composition and Rendering**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2308.04669v1](http://arxiv.org/abs/2308.04669v1)
+- 2023-08-14, **A General Implicit Framework for Fast NeRF Composition and Rendering**, Xinyu Gao et.al., Paper: [http://arxiv.org/abs/2308.04669v2](http://arxiv.org/abs/2308.04669v2)
 - 2023-08-08, **Digging into Depth Priors for Outdoor Neural Radiance Fields**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2308.04413v1](http://arxiv.org/abs/2308.04413v1)
 - 2023-08-07, **Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**, Junyi Zeng et.al., Paper: [http://arxiv.org/abs/2308.03280v1](http://arxiv.org/abs/2308.03280v1)
 - 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
@@ -1061,7 +1061,7 @@
 - 2022-11-27, **Sampling Neural Radiance Fields for Refractive Objects**, Jen-I Pan et.al., Paper: [http://arxiv.org/abs/2211.14799v1](http://arxiv.org/abs/2211.14799v1), Code: **[https://github.com/alexkeroro86/samplenerfro](https://github.com/alexkeroro86/samplenerfro)**
 - 2022-11-25, **3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**, Gang Li et.al., Paper: [http://arxiv.org/abs/2211.14108v1](http://arxiv.org/abs/2211.14108v1)
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
