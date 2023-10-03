@@ -46,7 +46,7 @@
 
 ## SLAM
 
-- 2023-09-29, **UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling**, Linghao Yang et.al., Paper: [http://arxiv.org/abs/2309.17036v1](http://arxiv.org/abs/2309.17036v1)
+- 2023-10-02, **UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling**, Linghao Yang et.al., Paper: [http://arxiv.org/abs/2309.17036v2](http://arxiv.org/abs/2309.17036v2)
 - 2023-09-28, **Active SLAM Utility Function Exploiting Path Entropy**, Muhammad Farhan Ahmed et.al., Paper: [http://arxiv.org/abs/2309.16490v1](http://arxiv.org/abs/2309.16490v1)
 - 2023-09-26, **ObVi-SLAM: Long-Term Object-Visual SLAM**, Amanda Adkins et.al., Paper: [http://arxiv.org/abs/2309.15268v1](http://arxiv.org/abs/2309.15268v1)
 - 2023-09-26, **Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**, Christina Kassab et.al., Paper: [http://arxiv.org/abs/2309.15065v1](http://arxiv.org/abs/2309.15065v1)
