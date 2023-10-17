@@ -46,6 +46,7 @@
 
 ## SLAM
 
+- 2023-10-16, **Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**, Dharmateja Adapa et.al., Paper: [http://arxiv.org/abs/2310.10290v1](http://arxiv.org/abs/2310.10290v1)
 - 2023-10-12, **Jointly Optimized Global-Local Visual Localization of UAVs**, Haoling Li et.al., Paper: [http://arxiv.org/abs/2310.08082v1](http://arxiv.org/abs/2310.08082v1)
 - 2023-10-11, **Saturation-Aware Angular Velocity Estimation: Extending the Robustness of SLAM to Aggressive Motions**, Simon-Pierre Deschênes et.al., Paper: [http://arxiv.org/abs/2310.07844v1](http://arxiv.org/abs/2310.07844v1)
 - 2023-10-10, **Efficient Graduated Non-Convexity for Pose Graph Optimization**, Wonseok Kang et.al., Paper: [http://arxiv.org/abs/2310.06765v1](http://arxiv.org/abs/2310.06765v1), Code: **[https://github.com/SNU-DLLAB/EGNC-PGO](https://github.com/SNU-DLLAB/EGNC-PGO)**
@@ -433,6 +434,10 @@
 
 ## Visual Localization
 
+- 2023-10-16, **Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**, Dharmateja Adapa et.al., Paper: [http://arxiv.org/abs/2310.10290v1](http://arxiv.org/abs/2310.10290v1)
+- 2023-10-16, **EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**, Tom Bryan et.al., Paper: [http://arxiv.org/abs/2310.10050v1](http://arxiv.org/abs/2310.10050v1)
+- 2023-10-15, **CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**, Yulei Qin et.al., Paper: [http://arxiv.org/abs/2310.09761v1](http://arxiv.org/abs/2310.09761v1)
+- 2023-10-13, **Pairwise Similarity Learning is SimPLE**, Yandong Wen et.al., Paper: [http://arxiv.org/abs/2310.09449v1](http://arxiv.org/abs/2310.09449v1)
 - 2023-10-13, **Vision-by-Language for Training-Free Compositional Image Retrieval**, Shyamgopal Karthik et.al., Paper: [http://arxiv.org/abs/2310.09291v1](http://arxiv.org/abs/2310.09291v1)
 - 2023-10-12, **Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**, Shiyang Yan et.al., Paper: [http://arxiv.org/abs/2310.08390v1](http://arxiv.org/abs/2310.08390v1)
 - 2023-10-12, **Jointly Optimized Global-Local Visual Localization of UAVs**, Haoling Li et.al., Paper: [http://arxiv.org/abs/2310.08082v1](http://arxiv.org/abs/2310.08082v1)
@@ -928,6 +933,12 @@
 
 ## NeRF
 
+- 2023-10-16, **TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2310.10650v1](http://arxiv.org/abs/2310.10650v1)
+- 2023-10-16, **DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2310.10624v1](http://arxiv.org/abs/2310.10624v1)
+- 2023-10-16, **Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**, Junpeng Tan et.al., Paper: [http://arxiv.org/abs/2310.10209v1](http://arxiv.org/abs/2310.10209v1)
+- 2023-10-15, **ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**, Binglun Wang et.al., Paper: [http://arxiv.org/abs/2310.09965v1](http://arxiv.org/abs/2310.09965v1)
+- 2023-10-15, **Active Perception using Neural Radiance Fields**, Siming He et.al., Paper: [http://arxiv.org/abs/2310.09892v1](http://arxiv.org/abs/2310.09892v1)
+- 2023-10-15, **CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**, Hongyu Fu et.al., Paper: [http://arxiv.org/abs/2310.09776v1](http://arxiv.org/abs/2310.09776v1)
 - 2023-10-11, **Dynamic Appearance Particle Neural Radiance Field**, Ancheng Lin et.al., Paper: [http://arxiv.org/abs/2310.07916v1](http://arxiv.org/abs/2310.07916v1)
 - 2023-10-12, **PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**, Jia-Wang Bian et.al., Paper: [http://arxiv.org/abs/2310.07449v2](http://arxiv.org/abs/2310.07449v2)
 - 2023-10-11, **rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**, Tongtong Zhang et.al., Paper: [http://arxiv.org/abs/2310.07179v1](http://arxiv.org/abs/2310.07179v1)
