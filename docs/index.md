@@ -20,6 +20,8 @@ layout: default
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#Exosuit>Exosuit</a></li>
+    <li><a href=#Exoskeleton>Exoskeleton</a></li>
   </ol>
 </details>
 
@@ -1621,6 +1623,40 @@ layout: default
 |**2022-11-27**|**3D Scene Creation and Rendering via Rough Meshes: A Lighting Transfer Avenue**|Yujie Li et.al.|[2211.14823v1](http://arxiv.org/abs/2211.14823v1)|null|
 |**2022-11-27**|**Sampling Neural Radiance Fields for Refractive Objects**|Jen-I Pan et.al.|[2211.14799v1](http://arxiv.org/abs/2211.14799v1)|**[link](https://github.com/alexkeroro86/samplenerfro)**|
 |**2022-11-25**|**3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models**|Gang Li et.al.|[2211.14108v1](http://arxiv.org/abs/2211.14108v1)|null|
+
+<p align=right>(<a href=#Updated-on-20231208>back to top</a>)</p>
+
+## Exosuit
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Adaptive Assistance with an Active and Soft Back-Support Exosuit to Unknown External Loads via Model-Based Estimates of Internal Lumbosacral Moments**|Alejandro Moya-Esteban et.al.|[2311.01843v1](http://arxiv.org/abs/2311.01843v1)|null|
+|**2023-10-27**|**Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles**|Katalin Schäffer et.al.|[2310.17861v1](http://arxiv.org/abs/2310.17861v1)|null|
+|**2023-09-10**|**Modeling and parametric optimization of 3D tendon-sheath actuator system for upper limb soft exosuit**|Amit Yadav et.al.|[2306.17427v2](http://arxiv.org/abs/2306.17427v2)|null|
+|**2023-04-28**|**Adaptive Gravity Compensation Control of a Cable-Driven Upper-Arm Soft Exosuit**|Joyjit Mukherjee et.al.|[2304.14823v1](http://arxiv.org/abs/2304.14823v1)|null|
+|**2023-02-16**|**Dynamic Field Programmable Logic-Driven Soft Exosuit**|Frances Cleary et.al.|[2302.08365v1](http://arxiv.org/abs/2302.08365v1)|null|
+|**2023-01-28**|**An Overview of Artificial Intelligence-based Soft Upper Limb Exoskeleton for Rehabilitation: A Descriptive Review**|Sanjukta Halder et.al.|[2301.04336v2](http://arxiv.org/abs/2301.04336v2)|null|
+|**2022-11-28**|**Environment-based Assistance Modulation for a Hip Exosuit via Computer Vision**|Enrica Tricomi et.al.|[2211.15346v1](http://arxiv.org/abs/2211.15346v1)|null|
+|**2022-09-05**|**Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**|Anant Jain et.al.|[2209.01932v1](http://arxiv.org/abs/2209.01932v1)|null|
+|**2022-06-14**|**PreMovNet: Pre-Movement EEG-based Hand Kinematics Estimation for Grasp and Lift task**|Anant Jain et.al.|[2205.01050v2](http://arxiv.org/abs/2205.01050v2)|null|
+|**2022-01-04**|**Source Aware Deep Learning Framework for Hand Kinematic Reconstruction using EEG Signal**|Sidharth Pancholi et.al.|[2103.13862v3](http://arxiv.org/abs/2103.13862v3)|null|
+
+<p align=right>(<a href=#Updated-on-20231208>back to top</a>)</p>
+
+## Exoskeleton
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**Towards Tenodesis-Modulated Control of an Assistive Hand Exoskeleton for SCI**|Joaquin Palacios et.al.|[2311.17244v1](http://arxiv.org/abs/2311.17244v1)|null|
+|**2023-11-04**|**A Comprehensive Dynamic Simulation Framework for Coupled Neuromusculoskeletal-Exoskeletal Systems**|Wei Jin et.al.|[2311.02346v1](http://arxiv.org/abs/2311.02346v1)|null|
+|**2023-11-03**|**Adaptive Assistance with an Active and Soft Back-Support Exosuit to Unknown External Loads via Model-Based Estimates of Internal Lumbosacral Moments**|Alejandro Moya-Esteban et.al.|[2311.01843v1](http://arxiv.org/abs/2311.01843v1)|null|
+|**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666v1](http://arxiv.org/abs/2310.20666v1)|null|
+|**2023-10-31**|**ExoRecovery: Push Recovery with a Lower-Limb Exoskeleton based on Stepping Strategy**|Zeynep Özge Orhan et.al.|[2310.20339v1](http://arxiv.org/abs/2310.20339v1)|null|
+|**2023-10-15**|**Evaluating Intelligent Algorithms for Gait Phase Classification in Lower Limb Robotic Systems**|Barath Kumar JK et.al.|[2310.09733v1](http://arxiv.org/abs/2310.09733v1)|null|
+|**2023-10-15**|**SVM based Multiclass Classifier for Gait phase Classification using Shank IMU Sensor**|Aswadh Khumar G S et.al.|[2310.09728v1](http://arxiv.org/abs/2310.09728v1)|null|
+|**2023-10-12**|**Multicriteria Optimization of Lower Limb Exoskeleton Mechanism**|Sayat Ibrayev et.al.|[2310.08308v1](http://arxiv.org/abs/2310.08308v1)|null|
+|**2023-10-09**|**Synthesizing Robust Walking Gaits via Discrete-Time Barrier Functions with Application to Multi-Contact Exoskeleton Locomotion**|Maegan Tucker et.al.|[2310.06169v1](http://arxiv.org/abs/2310.06169v1)|null|
+|**2023-10-09**|**Exoskeleton-Mediated Physical Human-Human Interaction for a Sit-to-Stand Rehabilitation Task**|Lorenzo Vianello et.al.|[2310.06084v1](http://arxiv.org/abs/2310.06084v1)|null|
 
 <p align=right>(<a href=#Updated-on-20231208>back to top</a>)</p>
 
