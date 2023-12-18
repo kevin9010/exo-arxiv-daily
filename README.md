@@ -1643,6 +1643,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Predicting Multi-Joint Kinematics of the Upper Limb from EMG Signals Across Varied Loads with a Physics-Informed Neural Network**|Rajnish Kumar et.al.|[2312.09418v1](http://arxiv.org/abs/2312.09418v1)|null|
 |**2023-11-28**|**Towards Tenodesis-Modulated Control of an Assistive Hand Exoskeleton for SCI**|Joaquin Palacios et.al.|[2311.17244v1](http://arxiv.org/abs/2311.17244v1)|null|
 |**2023-11-04**|**A Comprehensive Dynamic Simulation Framework for Coupled Neuromusculoskeletal-Exoskeletal Systems**|Wei Jin et.al.|[2311.02346v1](http://arxiv.org/abs/2311.02346v1)|null|
 |**2023-11-03**|**Adaptive Assistance with an Active and Soft Back-Support Exosuit to Unknown External Loads via Model-Based Estimates of Internal Lumbosacral Moments**|Alejandro Moya-Esteban et.al.|[2311.01843v1](http://arxiv.org/abs/2311.01843v1)|null|
