@@ -1608,6 +1608,7 @@
 
 ## Exosuit
 
+- 2024-01-11, **Volume Transfer: A New Design Concept for Fabric-Based Pneumatic Exosuits**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2401.05881v1](http://arxiv.org/abs/2401.05881v1)
 - 2023-11-03, **Adaptive Assistance with an Active and Soft Back-Support Exosuit to Unknown External Loads via Model-Based Estimates of Internal Lumbosacral Moments**, Alejandro Moya-Esteban et.al., Paper: [http://arxiv.org/abs/2311.01843v1](http://arxiv.org/abs/2311.01843v1)
 - 2023-10-27, **Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles**, Katalin Schäffer et.al., Paper: [http://arxiv.org/abs/2310.17861v1](http://arxiv.org/abs/2310.17861v1)
 - 2023-09-10, **Modeling and parametric optimization of 3D tendon-sheath actuator system for upper limb soft exosuit**, Amit Yadav et.al., Paper: [http://arxiv.org/abs/2306.17427v2](http://arxiv.org/abs/2306.17427v2)
@@ -1623,6 +1624,7 @@
 
 ## Exoskeleton
 
+- 2024-01-11, **Volume Transfer: A New Design Concept for Fabric-Based Pneumatic Exosuits**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2401.05881v1](http://arxiv.org/abs/2401.05881v1)
 - 2023-11-28, **Predicting Multi-Joint Kinematics of the Upper Limb from EMG Signals Across Varied Loads with a Physics-Informed Neural Network**, Rajnish Kumar et.al., Paper: [http://arxiv.org/abs/2312.09418v1](http://arxiv.org/abs/2312.09418v1)
 - 2023-11-28, **Towards Tenodesis-Modulated Control of an Assistive Hand Exoskeleton for SCI**, Joaquin Palacios et.al., Paper: [http://arxiv.org/abs/2311.17244v1](http://arxiv.org/abs/2311.17244v1)
 - 2023-11-04, **A Comprehensive Dynamic Simulation Framework for Coupled Neuromusculoskeletal-Exoskeletal Systems**, Wei Jin et.al., Paper: [http://arxiv.org/abs/2311.02346v1](http://arxiv.org/abs/2311.02346v1)
