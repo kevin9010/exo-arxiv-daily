@@ -1648,6 +1648,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**A Reinforcement Learning Based Controller to Minimize Forces on the Crutches of a Lower-Limb Exoskeleton**|Aydin Emre Utku et.al.|[2402.00135v1](http://arxiv.org/abs/2402.00135v1)|null|
 |**2024-01-11**|**Volume Transfer: A New Design Concept for Fabric-Based Pneumatic Exosuits**|Chendong Liu et.al.|[2401.05881v1](http://arxiv.org/abs/2401.05881v1)|null|
 |**2023-11-28**|**Predicting Multi-Joint Kinematics of the Upper Limb from EMG Signals Across Varied Loads with a Physics-Informed Neural Network**|Rajnish Kumar et.al.|[2312.09418v1](http://arxiv.org/abs/2312.09418v1)|null|
 |**2023-11-28**|**Towards Tenodesis-Modulated Control of an Assistive Hand Exoskeleton for SCI**|Joaquin Palacios et.al.|[2311.17244v1](http://arxiv.org/abs/2311.17244v1)|null|
