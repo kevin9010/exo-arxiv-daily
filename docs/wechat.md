@@ -1608,6 +1608,7 @@
 
 ## Exosuit
 
+- 2024-02-04, **Smart Textile-Driven Soft Spine Exosuit for Lifting Tasks in Industrial Applications**, Kefan Zhu et.al., Paper: [http://arxiv.org/abs/2402.02319v1](http://arxiv.org/abs/2402.02319v1)
 - 2024-01-11, **Volume Transfer: A New Design Concept for Fabric-Based Pneumatic Exosuits**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2401.05881v1](http://arxiv.org/abs/2401.05881v1)
 - 2023-11-03, **Adaptive Assistance with an Active and Soft Back-Support Exosuit to Unknown External Loads via Model-Based Estimates of Internal Lumbosacral Moments**, Alejandro Moya-Esteban et.al., Paper: [http://arxiv.org/abs/2311.01843v1](http://arxiv.org/abs/2311.01843v1)
 - 2023-10-27, **Soft Wrist Exosuit Actuated by Fabric Pneumatic Artificial Muscles**, Katalin Schäffer et.al., Paper: [http://arxiv.org/abs/2310.17861v1](http://arxiv.org/abs/2310.17861v1)
