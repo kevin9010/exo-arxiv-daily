@@ -1625,6 +1625,8 @@
 
 ## Exoskeleton
 
+- 2024-02-19, **The Molecular Exoskeleton of the Ring-like Planetary Nebula NGC 3132**, Joel H. Kastner et.al., Paper: [http://arxiv.org/abs/2402.11850v1](http://arxiv.org/abs/2402.11850v1)
+- 2024-02-19, **Early feasibility of an embedded bi-directional brain-computer interface for ambulation**, Jeffrey Lim et.al., Paper: [http://arxiv.org/abs/2402.11776v1](http://arxiv.org/abs/2402.11776v1)
 - 2024-02-06, **Deep-Learning Estimation of Weight Distribution Using Joint Kinematics for Lower-Limb Exoskeleton Control**, Clément Lhoste et.al., Paper: [http://arxiv.org/abs/2402.04180v1](http://arxiv.org/abs/2402.04180v1)
 - 2024-01-31, **A Reinforcement Learning Based Controller to Minimize Forces on the Crutches of a Lower-Limb Exoskeleton**, Aydin Emre Utku et.al., Paper: [http://arxiv.org/abs/2402.00135v1](http://arxiv.org/abs/2402.00135v1)
 - 2024-01-11, **Volume Transfer: A New Design Concept for Fabric-Based Pneumatic Exosuits**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2401.05881v1](http://arxiv.org/abs/2401.05881v1)
