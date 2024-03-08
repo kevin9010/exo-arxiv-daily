@@ -1630,6 +1630,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729v1](http://arxiv.org/abs/2403.04729v1)|null|
+|**2024-03-07**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v1](http://arxiv.org/abs/2403.04629v1)|null|
 |**2024-02-04**|**Smart Textile-Driven Soft Spine Exosuit for Lifting Tasks in Industrial Applications**|Kefan Zhu et.al.|[2402.02319v1](http://arxiv.org/abs/2402.02319v1)|null|
 |**2024-01-11**|**Volume Transfer: A New Design Concept for Fabric-Based Pneumatic Exosuits**|Chendong Liu et.al.|[2401.05881v1](http://arxiv.org/abs/2401.05881v1)|null|
 |**2023-11-03**|**Adaptive Assistance with an Active and Soft Back-Support Exosuit to Unknown External Loads via Model-Based Estimates of Internal Lumbosacral Moments**|Alejandro Moya-Esteban et.al.|[2311.01843v1](http://arxiv.org/abs/2311.01843v1)|null|
@@ -1649,6 +1651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Comparison of Deep Learning Techniques on Human Activity Recognition using Ankle Inertial Signals**|Farhad Nazari et.al.|[2403.04387v1](http://arxiv.org/abs/2403.04387v1)|null|
 |**2024-02-26**|**EEG classifier cross-task transfer to avoid training sessions in robot-assisted rehabilitation**|Niklas Kueper et.al.|[2402.17790v1](http://arxiv.org/abs/2402.17790v1)|null|
 |**2024-02-19**|**The Molecular Exoskeleton of the Ring-like Planetary Nebula NGC 3132**|Joel H. Kastner et.al.|[2402.11850v1](http://arxiv.org/abs/2402.11850v1)|null|
 |**2024-02-19**|**Early feasibility of an embedded bi-directional brain-computer interface for ambulation**|Jeffrey Lim et.al.|[2402.11776v1](http://arxiv.org/abs/2402.11776v1)|null|
