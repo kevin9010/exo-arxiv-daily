@@ -1627,6 +1627,8 @@
 
 ## Exoskeleton
 
+- 2024-03-11, **Human-Exoskeleton Interaction Portrait**, Mohammad Shushtari et.al., Paper: [http://arxiv.org/abs/2403.06851v1](http://arxiv.org/abs/2403.06851v1)
+- 2024-03-07, **Comparison of gait phase detection using traditional machine learning and deep learning techniques**, Farhad Nazari et.al., Paper: [http://arxiv.org/abs/2403.05595v1](http://arxiv.org/abs/2403.05595v1)
 - 2024-03-07, **Comparison of Deep Learning Techniques on Human Activity Recognition using Ankle Inertial Signals**, Farhad Nazari et.al., Paper: [http://arxiv.org/abs/2403.04387v1](http://arxiv.org/abs/2403.04387v1)
 - 2024-02-26, **EEG classifier cross-task transfer to avoid training sessions in robot-assisted rehabilitation**, Niklas Kueper et.al., Paper: [http://arxiv.org/abs/2402.17790v1](http://arxiv.org/abs/2402.17790v1)
 - 2024-02-19, **The Molecular Exoskeleton of the Ring-like Planetary Nebula NGC 3132**, Joel H. Kastner et.al., Paper: [http://arxiv.org/abs/2402.11850v1](http://arxiv.org/abs/2402.11850v1)
