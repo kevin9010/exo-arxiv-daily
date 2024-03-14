@@ -1627,6 +1627,8 @@
 
 ## Exoskeleton
 
+- 2024-03-12, **Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days**, Tiash Rana Mukherjee et.al., Paper: [http://arxiv.org/abs/2403.08044v1](http://arxiv.org/abs/2403.08044v1)
+- 2024-02-29, **Value Prediction for Spatiotemporal Gait Data Using Deep Learning**, Ryan Cavanagh et.al., Paper: [http://arxiv.org/abs/2403.07926v1](http://arxiv.org/abs/2403.07926v1)
 - 2024-03-11, **Human-Exoskeleton Interaction Portrait**, Mohammad Shushtari et.al., Paper: [http://arxiv.org/abs/2403.06851v1](http://arxiv.org/abs/2403.06851v1)
 - 2024-03-07, **Comparison of gait phase detection using traditional machine learning and deep learning techniques**, Farhad Nazari et.al., Paper: [http://arxiv.org/abs/2403.05595v1](http://arxiv.org/abs/2403.05595v1)
 - 2024-03-07, **Comparison of Deep Learning Techniques on Human Activity Recognition using Ankle Inertial Signals**, Farhad Nazari et.al., Paper: [http://arxiv.org/abs/2403.04387v1](http://arxiv.org/abs/2403.04387v1)
