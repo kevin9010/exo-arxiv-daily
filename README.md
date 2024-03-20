@@ -1647,6 +1647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631v1](http://arxiv.org/abs/2403.12631v1)|null|
 |**2024-03-12**|**Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days**|Tiash Rana Mukherjee et.al.|[2403.08044v1](http://arxiv.org/abs/2403.08044v1)|null|
 |**2024-02-29**|**Value Prediction for Spatiotemporal Gait Data Using Deep Learning**|Ryan Cavanagh et.al.|[2403.07926v1](http://arxiv.org/abs/2403.07926v1)|null|
 |**2024-03-11**|**Human-Exoskeleton Interaction Portrait**|Mohammad Shushtari et.al.|[2403.06851v1](http://arxiv.org/abs/2403.06851v1)|null|
