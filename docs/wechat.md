@@ -1627,6 +1627,7 @@
 
 ## Exoskeleton
 
+- 2024-03-21, **Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**, Jianeng Wang et.al., Paper: [http://arxiv.org/abs/2403.14320v1](http://arxiv.org/abs/2403.14320v1)
 - 2024-03-19, **PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**, Chen Hu et.al., Paper: [http://arxiv.org/abs/2403.12631v1](http://arxiv.org/abs/2403.12631v1)
 - 2024-03-12, **Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days**, Tiash Rana Mukherjee et.al., Paper: [http://arxiv.org/abs/2403.08044v1](http://arxiv.org/abs/2403.08044v1)
 - 2024-02-29, **Value Prediction for Spatiotemporal Gait Data Using Deep Learning**, Ryan Cavanagh et.al., Paper: [http://arxiv.org/abs/2403.07926v1](http://arxiv.org/abs/2403.07926v1)
