@@ -1651,6 +1651,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-23**|**The Impact of Evolutionary Computation on Robotic Design: A Case Study with an Underactuated Hand Exoskeleton**|Baris Akbas et.al.|[2403.15812v1](http://arxiv.org/abs/2403.15812v1)|null|
+|**2024-03-23**|**Data-Driven Predictive Control for Robust Exoskeleton Locomotion**|Kejun Li et.al.|[2403.15658v1](http://arxiv.org/abs/2403.15658v1)|null|
 |**2024-03-21**|**Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**|Jianeng Wang et.al.|[2403.14320v1](http://arxiv.org/abs/2403.14320v1)|null|
 |**2024-03-19**|**PointGrasp: Point Cloud-based Grasping for Tendon-driven Soft Robotic Glove Applications**|Chen Hu et.al.|[2403.12631v1](http://arxiv.org/abs/2403.12631v1)|null|
 |**2024-03-12**|**Neural, Muscular, and Perceptual responses with shoulder exoskeleton use over Days**|Tiash Rana Mukherjee et.al.|[2403.08044v1](http://arxiv.org/abs/2403.08044v1)|null|
