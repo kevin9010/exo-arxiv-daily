@@ -1627,6 +1627,7 @@
 
 ## Exoskeleton
 
+- 2024-03-27, **Egocentric Scene-aware Human Trajectory Prediction**, Weizhuo Wang et.al., Paper: [http://arxiv.org/abs/2403.19026v1](http://arxiv.org/abs/2403.19026v1)
 - 2024-03-23, **The Impact of Evolutionary Computation on Robotic Design: A Case Study with an Underactuated Hand Exoskeleton**, Baris Akbas et.al., Paper: [http://arxiv.org/abs/2403.15812v1](http://arxiv.org/abs/2403.15812v1)
 - 2024-03-23, **Data-Driven Predictive Control for Robust Exoskeleton Locomotion**, Kejun Li et.al., Paper: [http://arxiv.org/abs/2403.15658v1](http://arxiv.org/abs/2403.15658v1)
 - 2024-03-21, **Exosense: A Vision-Centric Scene Understanding System For Safe Exoskeleton Navigation**, Jianeng Wang et.al., Paper: [http://arxiv.org/abs/2403.14320v1](http://arxiv.org/abs/2403.14320v1)
