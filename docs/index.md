@@ -1651,6 +1651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Space Physiology and Technology: Musculoskeletal Adaptations, Countermeasures, and the Opportunity for Wearable Robotics**|Shamas Ul Ebad Khan et.al.|[2404.03363v1](http://arxiv.org/abs/2404.03363v1)|null|
 |**2024-04-02**|**Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment**|Jesudara Omidokun et.al.|[2404.01576v1](http://arxiv.org/abs/2404.01576v1)|null|
 |**2024-03-30**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026v2](http://arxiv.org/abs/2403.19026v2)|null|
 |**2024-03-23**|**The Impact of Evolutionary Computation on Robotic Design: A Case Study with an Underactuated Hand Exoskeleton**|Baris Akbas et.al.|[2403.15812v1](http://arxiv.org/abs/2403.15812v1)|null|
