@@ -1626,7 +1626,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-07**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729v1](http://arxiv.org/abs/2403.04729v1)|null|
+|**2024-04-08**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729v2](http://arxiv.org/abs/2403.04729v2)|null|
 |**2024-03-08**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v2](http://arxiv.org/abs/2403.04629v2)|null|
 |**2024-02-04**|**Smart Textile-Driven Soft Spine Exosuit for Lifting Tasks in Industrial Applications**|Kefan Zhu et.al.|[2402.02319v1](http://arxiv.org/abs/2402.02319v1)|null|
 |**2024-01-11**|**Volume Transfer: A New Design Concept for Fabric-Based Pneumatic Exosuits**|Chendong Liu et.al.|[2401.05881v1](http://arxiv.org/abs/2401.05881v1)|null|
@@ -1647,7 +1647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-05**|**High-Frequency Capacitive Sensing for Electrohydraulic Soft Actuators**|Michel R. Vogt et.al.|[2404.04071v1](http://arxiv.org/abs/2404.04071v1)|null|
+|**2024-04-08**|**High-Frequency Capacitive Sensing for Electrohydraulic Soft Actuators**|Michel R. Vogt et.al.|[2404.04071v2](http://arxiv.org/abs/2404.04071v2)|null|
 |**2024-04-04**|**Space Physiology and Technology: Musculoskeletal Adaptations, Countermeasures, and the Opportunity for Wearable Robotics**|Shamas Ul Ebad Khan et.al.|[2404.03363v1](http://arxiv.org/abs/2404.03363v1)|null|
 |**2024-04-02**|**Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment**|Jesudara Omidokun et.al.|[2404.01576v1](http://arxiv.org/abs/2404.01576v1)|null|
 |**2024-03-30**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026v2](http://arxiv.org/abs/2403.19026v2)|null|
