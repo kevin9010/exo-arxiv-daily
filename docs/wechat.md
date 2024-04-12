@@ -1627,6 +1627,7 @@
 
 ## Exoskeleton
 
+- 2024-04-11, **Efficient sEMG-based Cross-Subject Joint Angle Estimation via Hierarchical Spiking Attentional Feature Decomposition Network**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2404.07517v1](http://arxiv.org/abs/2404.07517v1)
 - 2024-04-08, **High-Frequency Capacitive Sensing for Electrohydraulic Soft Actuators**, Michel R. Vogt et.al., Paper: [http://arxiv.org/abs/2404.04071v2](http://arxiv.org/abs/2404.04071v2)
 - 2024-04-04, **Space Physiology and Technology: Musculoskeletal Adaptations, Countermeasures, and the Opportunity for Wearable Robotics**, Shamas Ul Ebad Khan et.al., Paper: [http://arxiv.org/abs/2404.03363v1](http://arxiv.org/abs/2404.03363v1)
 - 2024-04-02, **Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment**, Jesudara Omidokun et.al., Paper: [http://arxiv.org/abs/2404.01576v1](http://arxiv.org/abs/2404.01576v1)
