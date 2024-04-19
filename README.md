@@ -1647,6 +1647,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Terrain-Aware Stride-Level Trajectory Forecasting for a Powered Hip Exoskeleton via Vision and Kinematics Fusion**|Ruoqi Zhao et.al.|[2404.11945v1](http://arxiv.org/abs/2404.11945v1)|null|
 |**2024-04-11**|**Efficient sEMG-based Cross-Subject Joint Angle Estimation via Hierarchical Spiking Attentional Feature Decomposition Network**|Xin Zhou et.al.|[2404.07517v1](http://arxiv.org/abs/2404.07517v1)|null|
 |**2024-04-08**|**High-Frequency Capacitive Sensing for Electrohydraulic Soft Actuators**|Michel R. Vogt et.al.|[2404.04071v2](http://arxiv.org/abs/2404.04071v2)|null|
 |**2024-04-04**|**Space Physiology and Technology: Musculoskeletal Adaptations, Countermeasures, and the Opportunity for Wearable Robotics**|Shamas Ul Ebad Khan et.al.|[2404.03363v1](http://arxiv.org/abs/2404.03363v1)|null|
