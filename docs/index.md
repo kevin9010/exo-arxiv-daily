@@ -1651,6 +1651,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Design of Fuzzy Logic Parameter Tuners for Upper-Limb Assistive Robots**|Christopher Coco Jr. et.al.|[2405.02495v1](http://arxiv.org/abs/2405.02495v1)|null|
+|**2024-05-03**|**Investigating the Generalizability of Assistive Robots Models over Various Tasks**|Hamid Osooli et.al.|[2405.02492v1](http://arxiv.org/abs/2405.02492v1)|null|
 |**2024-04-19**|**A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition**|Xiao-Yin Liu et.al.|[2404.15366v1](http://arxiv.org/abs/2404.15366v1)|**[link](https://github.com/xiaoyinliu0714/WMDD)**|
 |**2024-04-18**|**Terrain-Aware Stride-Level Trajectory Forecasting for a Powered Hip Exoskeleton via Vision and Kinematics Fusion**|Ruoqi Zhao et.al.|[2404.11945v1](http://arxiv.org/abs/2404.11945v1)|**[link](https://github.com/ruoqizhao116/sftik)**|
 |**2024-04-11**|**Efficient sEMG-based Cross-Subject Joint Angle Estimation via Hierarchical Spiking Attentional Feature Decomposition Network**|Xin Zhou et.al.|[2404.07517v1](http://arxiv.org/abs/2404.07517v1)|null|
