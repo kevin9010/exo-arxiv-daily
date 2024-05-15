@@ -1627,6 +1627,7 @@
 
 ## Exoskeleton
 
+- 2024-05-14, **Data-driven Force Observer for Human-Robot Interaction with Series Elastic Actuators using Gaussian Processes**, Samuel Tesfazgi et.al., Paper: [http://arxiv.org/abs/2405.08711v1](http://arxiv.org/abs/2405.08711v1)
 - 2024-05-03, **Design of Fuzzy Logic Parameter Tuners for Upper-Limb Assistive Robots**, Christopher Coco Jr. et.al., Paper: [http://arxiv.org/abs/2405.02495v1](http://arxiv.org/abs/2405.02495v1)
 - 2024-05-03, **Investigating the Generalizability of Assistive Robots Models over Various Tasks**, Hamid Osooli et.al., Paper: [http://arxiv.org/abs/2405.02492v1](http://arxiv.org/abs/2405.02492v1)
 - 2024-04-19, **A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition**, Xiao-Yin Liu et.al., Paper: [http://arxiv.org/abs/2404.15366v1](http://arxiv.org/abs/2404.15366v1), Code: **[https://github.com/xiaoyinliu0714/WMDD](https://github.com/xiaoyinliu0714/WMDD)**
