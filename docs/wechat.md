@@ -1627,6 +1627,7 @@
 
 ## Exoskeleton
 
+- 2024-06-10, **Influence of Motion Restrictions in an Ankle Exoskeleton on Gait Kinematics and Stability in Straight Walking**, Miha Dezman et.al., Paper: [http://arxiv.org/abs/2406.06054v1](http://arxiv.org/abs/2406.06054v1)
 - 2024-05-31, **Heuristic evaluations of back support, shoulder support, hand grip strength support, and sit-stand support exoskeletons using universal design principles**, Alejandra Martinez et.al., Paper: [http://arxiv.org/abs/2405.20819v1](http://arxiv.org/abs/2405.20819v1)
 - 2024-05-29, **Understanding Grasp Synergies during Reach-to-grasp using an Instrumented Data Glove**, Subhash Pratap et.al., Paper: [http://arxiv.org/abs/2405.19430v1](http://arxiv.org/abs/2405.19430v1)
 - 2024-05-14, **Data-driven Force Observer for Human-Robot Interaction with Series Elastic Actuators using Gaussian Processes**, Samuel Tesfazgi et.al., Paper: [http://arxiv.org/abs/2405.08711v1](http://arxiv.org/abs/2405.08711v1)
