@@ -1608,6 +1608,7 @@
 
 ## Exosuit
 
+- 2024-06-17, **ESI-GAL: EEG Source Imaging-based Kinemaics Parameter Estimation for Grasp and Lift Task**, Anant Jain et.al., Paper: [http://arxiv.org/abs/2406.11500v1](http://arxiv.org/abs/2406.11500v1)
 - 2024-04-08, **Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**, Katalin Schaffer et.al., Paper: [http://arxiv.org/abs/2403.04729v2](http://arxiv.org/abs/2403.04729v2)
 - 2024-03-08, **Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**, Julian Rodemann et.al., Paper: [http://arxiv.org/abs/2403.04629v2](http://arxiv.org/abs/2403.04629v2)
 - 2024-02-04, **Smart Textile-Driven Soft Spine Exosuit for Lifting Tasks in Industrial Applications**, Kefan Zhu et.al., Paper: [http://arxiv.org/abs/2402.02319v1](http://arxiv.org/abs/2402.02319v1)
@@ -1627,6 +1628,7 @@
 
 ## Exoskeleton
 
+- 2024-06-17, **Optimum signal duration for Human Activity Recognition based on Deep Convolutional Neural Networks**, Farhad Nazari et.al., Paper: [http://arxiv.org/abs/2406.11164v1](http://arxiv.org/abs/2406.11164v1)
 - 2024-06-10, **Influence of Motion Restrictions in an Ankle Exoskeleton on Gait Kinematics and Stability in Straight Walking**, Miha Dezman et.al., Paper: [http://arxiv.org/abs/2406.06054v1](http://arxiv.org/abs/2406.06054v1)
 - 2024-05-31, **Heuristic evaluations of back support, shoulder support, hand grip strength support, and sit-stand support exoskeletons using universal design principles**, Alejandra Martinez et.al., Paper: [http://arxiv.org/abs/2405.20819v1](http://arxiv.org/abs/2405.20819v1)
 - 2024-05-29, **Understanding Grasp Synergies during Reach-to-grasp using an Instrumented Data Glove**, Subhash Pratap et.al., Paper: [http://arxiv.org/abs/2405.19430v1](http://arxiv.org/abs/2405.19430v1)
