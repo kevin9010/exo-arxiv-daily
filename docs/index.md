@@ -1630,6 +1630,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Sensorless model-based tension control for a cable-driven exosuit**|Elena Bardi et.al.|[2406.18412v1](http://arxiv.org/abs/2406.18412v1)|null|
 |**2024-06-18**|**ESI-GAL: EEG Source Imaging-based Kinematics Parameter Estimation for Grasp and Lift Task**|Anant Jain et.al.|[2406.11500v2](http://arxiv.org/abs/2406.11500v2)|null|
 |**2024-04-08**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729v2](http://arxiv.org/abs/2403.04729v2)|null|
 |**2024-03-08**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v2](http://arxiv.org/abs/2403.04629v2)|null|
