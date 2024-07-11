@@ -1653,6 +1653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Measuring Trust for Exoskeleton Systems**|Leia Stirling et.al.|[2407.07200v1](http://arxiv.org/abs/2407.07200v1)|null|
 |**2024-06-20**|**Preferential Multi-Objective Bayesian Optimization**|Raul Astudillo et.al.|[2406.14699v1](http://arxiv.org/abs/2406.14699v1)|null|
 |**2024-06-17**|**Optimum signal duration for Human Activity Recognition based on Deep Convolutional Neural Networks**|Farhad Nazari et.al.|[2406.11164v1](http://arxiv.org/abs/2406.11164v1)|null|
 |**2024-06-10**|**Influence of Motion Restrictions in an Ankle Exoskeleton on Gait Kinematics and Stability in Straight Walking**|Miha Dezman et.al.|[2406.06054v1](http://arxiv.org/abs/2406.06054v1)|null|
