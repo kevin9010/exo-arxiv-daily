@@ -1629,6 +1629,7 @@
 
 ## Exoskeleton
 
+- 2024-07-13, **Gravity Balanced Arm Exoskeleton for Basketball Shooting Training**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2407.09782v1](http://arxiv.org/abs/2407.09782v1)
 - 2024-07-09, **Measuring Trust for Exoskeleton Systems**, Leia Stirling et.al., Paper: [http://arxiv.org/abs/2407.07200v1](http://arxiv.org/abs/2407.07200v1)
 - 2024-06-20, **Preferential Multi-Objective Bayesian Optimization**, Raul Astudillo et.al., Paper: [http://arxiv.org/abs/2406.14699v1](http://arxiv.org/abs/2406.14699v1)
 - 2024-06-17, **Optimum signal duration for Human Activity Recognition based on Deep Convolutional Neural Networks**, Farhad Nazari et.al., Paper: [http://arxiv.org/abs/2406.11164v1](http://arxiv.org/abs/2406.11164v1)
