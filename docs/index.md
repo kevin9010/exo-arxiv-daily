@@ -1654,6 +1654,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems**|Morteza Mirzaee et.al.|[2407.18309v1](http://arxiv.org/abs/2407.18309v1)|null|
 |**2024-07-13**|**Gravity Balanced Arm Exoskeleton for Basketball Shooting Training**|Yunfei Liu et.al.|[2407.09782v1](http://arxiv.org/abs/2407.09782v1)|null|
 |**2024-07-09**|**Measuring Trust for Exoskeleton Systems**|Leia Stirling et.al.|[2407.07200v1](http://arxiv.org/abs/2407.07200v1)|null|
 |**2024-06-20**|**Preferential Multi-Objective Bayesian Optimization**|Raul Astudillo et.al.|[2406.14699v1](http://arxiv.org/abs/2406.14699v1)|null|
