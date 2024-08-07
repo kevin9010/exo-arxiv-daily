@@ -1630,6 +1630,7 @@
 
 ## Exoskeleton
 
+- 2024-08-05, **Usability of back support, shoulder support and sit-stand passive occupational exoskeletons: A heuristic evaluation of the designs**, Alejandra Martinez et.al., Paper: [http://arxiv.org/abs/2408.02852v1](http://arxiv.org/abs/2408.02852v1)
 - 2024-08-05, **ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2408.02210v1](http://arxiv.org/abs/2408.02210v1)
 - 2024-07-31, **A User Study Method on Healthy Participants for Assessing an Assistive Wearable Robot Utilising EMG Sensing**, Cem Suulker et.al., Paper: [http://arxiv.org/abs/2408.00048v1](http://arxiv.org/abs/2408.00048v1)
 - 2024-07-25, **Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems**, Morteza Mirzaee et.al., Paper: [http://arxiv.org/abs/2407.18309v1](http://arxiv.org/abs/2407.18309v1)
