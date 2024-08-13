@@ -1650,6 +1650,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-10**|**Ankle Exoskeletons May Hinder Standing Balance in Simple Models of Older and Younger Adults**|Daphna Raz et.al.|[2408.05418v1](http://arxiv.org/abs/2408.05418v1)|null|
+|**2024-08-09**|**Moving past point-contacts: Extending the ALIP model to humanoids with non-trivial feet using hierarchical, full-body momentum control**|Victor C. Paredes et.al.|[2408.05308v1](http://arxiv.org/abs/2408.05308v1)|null|
 |**2024-08-05**|**Usability of back support, shoulder support and sit-stand passive occupational exoskeletons: A heuristic evaluation of the designs**|Alejandra Martinez et.al.|[2408.02852v1](http://arxiv.org/abs/2408.02852v1)|null|
 |**2024-08-05**|**ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning**|Yuxuan Wang et.al.|[2408.02210v1](http://arxiv.org/abs/2408.02210v1)|null|
 |**2024-07-31**|**A User Study Method on Healthy Participants for Assessing an Assistive Wearable Robot Utilising EMG Sensing**|Cem Suulker et.al.|[2408.00048v1](http://arxiv.org/abs/2408.00048v1)|null|
