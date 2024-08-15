@@ -1630,6 +1630,7 @@
 
 ## Exoskeleton
 
+- 2024-08-14, **Enhanced Optimization Strategies to Design an Underactuated Hand Exoskeleton**, Baris Akbas et.al., Paper: [http://arxiv.org/abs/2408.07384v1](http://arxiv.org/abs/2408.07384v1)
 - 2024-07-25, **On Representing Humans' Soft-Ethics Preferences As Dispositions**, Donatella Donati et.al., Paper: [http://arxiv.org/abs/2408.06355v1](http://arxiv.org/abs/2408.06355v1)
 - 2024-08-10, **Ankle Exoskeletons May Hinder Standing Balance in Simple Models of Older and Younger Adults**, Daphna Raz et.al., Paper: [http://arxiv.org/abs/2408.05418v1](http://arxiv.org/abs/2408.05418v1)
 - 2024-08-09, **Moving past point-contacts: Extending the ALIP model to humanoids with non-trivial feet using hierarchical, full-body momentum control**, Victor C. Paredes et.al., Paper: [http://arxiv.org/abs/2408.05308v1](http://arxiv.org/abs/2408.05308v1)
