@@ -1630,6 +1630,7 @@
 
 ## Exoskeleton
 
+- 2024-08-16, **User-centered evaluation of the Wearable Walker lower limb exoskeleton, preliminary assessment based on the Experience protocol**, Cristian Camardella et.al., Paper: [http://arxiv.org/abs/2408.08734v1](http://arxiv.org/abs/2408.08734v1)
 - 2024-07-31, **Assistive Soft Robotic Glove with Ruffles Enhanced Textile Actuators**, Cem Suulker et.al., Paper: [http://arxiv.org/abs/2408.07834v1](http://arxiv.org/abs/2408.07834v1)
 - 2024-08-14, **Exoskeleton-Assisted Balance and Task Evaluation During Quiet Stance and Kneeling in Construction**, Gayatri Sreenivasan et.al., Paper: [http://arxiv.org/abs/2408.07795v1](http://arxiv.org/abs/2408.07795v1)
 - 2024-08-14, **Enhanced Optimization Strategies to Design an Underactuated Hand Exoskeleton**, Baris Akbas et.al., Paper: [http://arxiv.org/abs/2408.07384v1](http://arxiv.org/abs/2408.07384v1)
