@@ -1650,6 +1650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**sEMG-Driven Physics-Informed Gated Recurrent Networks for Modeling Upper Limb Multi-Joint Movement Dynamics**|Rajnish Kumar et.al.|[2408.16599v1](http://arxiv.org/abs/2408.16599v1)|null|
 |**2024-08-09**|**AI-Powered Camera and Sensors for the Rehabilitation Hand Exoskeleton**|Md Abdul Baset Sarker et.al.|[2408.15248v1](http://arxiv.org/abs/2408.15248v1)|null|
 |**2024-08-21**|**ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation**|Shiqi Yang et.al.|[2408.11805v1](http://arxiv.org/abs/2408.11805v1)|null|
 |**2024-08-16**|**User-centered evaluation of the Wearable Walker lower limb exoskeleton, preliminary assessment based on the Experience protocol**|Cristian Camardella et.al.|[2408.08734v1](http://arxiv.org/abs/2408.08734v1)|null|
