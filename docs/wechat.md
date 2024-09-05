@@ -1630,6 +1630,8 @@
 
 ## Exoskeleton
 
+- 2024-09-04, **Modelling, Design Optimization and Prototype development of Knee Exoskeleton**, Shashank Mani Gautam et.al., Paper: [http://arxiv.org/abs/2409.02635v1](http://arxiv.org/abs/2409.02635v1)
+- 2024-09-02, **Development and Validation of a Modular Sensor-Based System for Gait Analysis and Control in Lower-Limb Exoskeletons**, Giorgos Marinou et.al., Paper: [http://arxiv.org/abs/2409.01174v1](http://arxiv.org/abs/2409.01174v1)
 - 2024-08-29, **sEMG-Driven Physics-Informed Gated Recurrent Networks for Modeling Upper Limb Multi-Joint Movement Dynamics**, Rajnish Kumar et.al., Paper: [http://arxiv.org/abs/2408.16599v1](http://arxiv.org/abs/2408.16599v1)
 - 2024-08-09, **AI-Powered Camera and Sensors for the Rehabilitation Hand Exoskeleton**, Md Abdul Baset Sarker et.al., Paper: [http://arxiv.org/abs/2408.15248v1](http://arxiv.org/abs/2408.15248v1)
 - 2024-08-21, **ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation**, Shiqi Yang et.al., Paper: [http://arxiv.org/abs/2408.11805v1](http://arxiv.org/abs/2408.11805v1)
