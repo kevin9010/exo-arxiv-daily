@@ -1650,6 +1650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**CAVERNAUTE: a design and manufacturing pipeline of a rigid but foldable indoor airship aerial system for cave exploration**|Catar Louis et.al.|[2409.07591v1](http://arxiv.org/abs/2409.07591v1)|null|
 |**2024-09-06**|**The Effects of Unilateral Slope Loading on Lower Limb Plantar Flexor Muscle EMG Signals in Young Healthy Males**|Xinyu Zhou et.al.|[2409.04321v1](http://arxiv.org/abs/2409.04321v1)|null|
 |**2024-09-05**|**Upper-Limb Rehabilitation with a Dual-Mode Individualized Exoskeleton Robot: A Generative-Model-Based Solution**|Yu Chen et.al.|[2409.03193v1](http://arxiv.org/abs/2409.03193v1)|null|
 |**2024-09-04**|**Modelling, Design Optimization and Prototype development of Knee Exoskeleton**|Shashank Mani Gautam et.al.|[2409.02635v1](http://arxiv.org/abs/2409.02635v1)|null|
