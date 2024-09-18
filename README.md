@@ -1650,6 +1650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Force Myography based Torque Estimation in Human Knee and Ankle Joints**|Charlotte Marquardt et.al.|[2409.11061v1](http://arxiv.org/abs/2409.11061v1)|null|
 |**2024-09-13**|**Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach**|Kang Yang et.al.|[2409.08889v1](http://arxiv.org/abs/2409.08889v1)|null|
 |**2024-09-11**|**CAVERNAUTE: a design and manufacturing pipeline of a rigid but foldable indoor airship aerial system for cave exploration**|Catar Louis et.al.|[2409.07591v1](http://arxiv.org/abs/2409.07591v1)|null|
 |**2024-09-06**|**The Effects of Unilateral Slope Loading on Lower Limb Plantar Flexor Muscle EMG Signals in Young Healthy Males**|Xinyu Zhou et.al.|[2409.04321v1](http://arxiv.org/abs/2409.04321v1)|null|
