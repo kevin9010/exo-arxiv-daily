@@ -1650,6 +1650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Transparency evaluation for the Kinematic Design of the Harnesses through Human-Exoskeleton Interaction Modeling**|Riccardo Bezzini et.al.|[2409.18755v1](http://arxiv.org/abs/2409.18755v1)|null|
 |**2024-09-17**|**Unidirectional Human-Robot-Human Physical Interaction for Gait Training**|Lorenzo Amato et.al.|[2409.11510v1](http://arxiv.org/abs/2409.11510v1)|null|
 |**2024-09-17**|**Force Myography based Torque Estimation in Human Knee and Ankle Joints**|Charlotte Marquardt et.al.|[2409.11061v1](http://arxiv.org/abs/2409.11061v1)|null|
 |**2024-09-13**|**Extending the Benefits of Parallel Elasticity across Multiple Actuation Tasks: A Geometric and Optimization-Based Approach**|Kang Yang et.al.|[2409.08889v1](http://arxiv.org/abs/2409.08889v1)|null|
