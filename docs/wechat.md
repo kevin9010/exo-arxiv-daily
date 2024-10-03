@@ -1630,6 +1630,7 @@
 
 ## Exoskeleton
 
+- 2024-10-01, **Fast Hip Joint Moment Estimation with A General Moment Feature Generation Method**, Yuanwen Zhang et.al., Paper: [http://arxiv.org/abs/2410.00462v1](http://arxiv.org/abs/2410.00462v1)
 - 2024-09-27, **Transparency evaluation for the Kinematic Design of the Harnesses through Human-Exoskeleton Interaction Modeling**, Riccardo Bezzini et.al., Paper: [http://arxiv.org/abs/2409.18755v1](http://arxiv.org/abs/2409.18755v1)
 - 2024-09-17, **Unidirectional Human-Robot-Human Physical Interaction for Gait Training**, Lorenzo Amato et.al., Paper: [http://arxiv.org/abs/2409.11510v1](http://arxiv.org/abs/2409.11510v1)
 - 2024-09-17, **Force Myography based Torque Estimation in Human Knee and Ankle Joints**, Charlotte Marquardt et.al., Paper: [http://arxiv.org/abs/2409.11061v1](http://arxiv.org/abs/2409.11061v1)
