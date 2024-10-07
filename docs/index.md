@@ -1630,6 +1630,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-19**|**A Soft Robotic Exosuit For Knee Extension Using Hyper-Bending Actuators**|Tuo Liu et.al.|[2410.02802v1](http://arxiv.org/abs/2410.02802v1)|null|
 |**2024-07-17**|**Force Profiling of a Shoulder Bidirectional Fabric-based Pneumatic Actuator for a Pediatric Exosuit**|Mehrnoosh Ayazi et.al.|[2407.12978v1](http://arxiv.org/abs/2407.12978v1)|null|
 |**2024-06-26**|**Sensorless model-based tension control for a cable-driven exosuit**|Elena Bardi et.al.|[2406.18412v1](http://arxiv.org/abs/2406.18412v1)|null|
 |**2024-07-04**|**ESI-GAL: EEG Source Imaging-based Kinematics Parameter Estimation for Grasp and Lift Task**|Anant Jain et.al.|[2406.11500v3](http://arxiv.org/abs/2406.11500v3)|null|
