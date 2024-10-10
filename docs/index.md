@@ -1655,6 +1655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Sitting, Standing and Walking Control of the Series-Parallel Hybrid Recupera-Reha Exoskeleton**|Ibrahim Tijjani et.al.|[2410.06008v1](http://arxiv.org/abs/2410.06008v1)|null|
 |**2024-10-01**|**Fast Hip Joint Moment Estimation with A General Moment Feature Generation Method**|Yuanwen Zhang et.al.|[2410.00462v1](http://arxiv.org/abs/2410.00462v1)|null|
 |**2024-09-27**|**Transparency evaluation for the Kinematic Design of the Harnesses through Human-Exoskeleton Interaction Modeling**|Riccardo Bezzini et.al.|[2409.18755v1](http://arxiv.org/abs/2409.18755v1)|null|
 |**2024-09-17**|**Unidirectional Human-Robot-Human Physical Interaction for Gait Training**|Lorenzo Amato et.al.|[2409.11510v1](http://arxiv.org/abs/2409.11510v1)|null|
