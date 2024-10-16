@@ -1608,6 +1608,7 @@
 
 ## Exosuit
 
+- 2024-10-15, **Using Zone Inflation and Volume Transfer to Design a Fabric-based Pneumatic Exosuit with both Efficiency and Wearability**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2410.11341v1](http://arxiv.org/abs/2410.11341v1)
 - 2024-09-19, **A Soft Robotic Exosuit For Knee Extension Using Hyper-Bending Actuators**, Tuo Liu et.al., Paper: [http://arxiv.org/abs/2410.02802v1](http://arxiv.org/abs/2410.02802v1)
 - 2024-07-17, **Force Profiling of a Shoulder Bidirectional Fabric-based Pneumatic Actuator for a Pediatric Exosuit**, Mehrnoosh Ayazi et.al., Paper: [http://arxiv.org/abs/2407.12978v1](http://arxiv.org/abs/2407.12978v1)
 - 2024-06-26, **Sensorless model-based tension control for a cable-driven exosuit**, Elena Bardi et.al., Paper: [http://arxiv.org/abs/2406.18412v1](http://arxiv.org/abs/2406.18412v1)
