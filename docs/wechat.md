@@ -1632,6 +1632,7 @@
 
 ## Exoskeleton
 
+- 2024-10-23, **Reconfigurable Hydrostatics: Toward Multifunctional and Powerful Wearable Robotics**, Jeff Denis et.al., Paper: [http://arxiv.org/abs/2410.17936v1](http://arxiv.org/abs/2410.17936v1)
 - 2024-10-22, **Distribution of Responsibility During the Usage of AI-Based Exoskeletons for Upper Limb Rehabilitation**, Huaxi et.al., Paper: [http://arxiv.org/abs/2410.16887v1](http://arxiv.org/abs/2410.16887v1)
 - 2024-09-24, **A Realistic Model Reference Computed Torque Control Strategy for Human Lower Limb Exoskeletons**, SK Hasan et.al., Paper: [http://arxiv.org/abs/2410.07200v1](http://arxiv.org/abs/2410.07200v1)
 - 2024-10-08, **Sitting, Standing and Walking Control of the Series-Parallel Hybrid Recupera-Reha Exoskeleton**, Ibrahim Tijjani et.al., Paper: [http://arxiv.org/abs/2410.06008v1](http://arxiv.org/abs/2410.06008v1)
