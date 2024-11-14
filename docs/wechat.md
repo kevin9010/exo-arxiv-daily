@@ -1632,6 +1632,8 @@
 
 ## Exoskeleton
 
+- 2024-11-13, **A Cost-effective, Stand-alone, and Real-time TinyML-Based Gait Diagnosis Unit Aimed at Lower-limb Robotic Prostheses and Exoskeletons**, Zarin Anjum Madhiha et.al., Paper: [http://arxiv.org/abs/2411.08474v1](http://arxiv.org/abs/2411.08474v1)
+- 2024-11-12, **Point Cloud Context Analysis for Rehabilitation Grasping Assistance**, Jackson M. Steinkamp et.al., Paper: [http://arxiv.org/abs/2411.08169v1](http://arxiv.org/abs/2411.08169v1)
 - 2024-10-23, **Reconfigurable Hydrostatics: Toward Multifunctional and Powerful Wearable Robotics**, Jeff Denis et.al., Paper: [http://arxiv.org/abs/2410.17936v1](http://arxiv.org/abs/2410.17936v1)
 - 2024-10-22, **Distribution of Responsibility During the Usage of AI-Based Exoskeletons for Upper Limb Rehabilitation**, Huaxi et.al., Paper: [http://arxiv.org/abs/2410.16887v1](http://arxiv.org/abs/2410.16887v1)
 - 2024-09-24, **A Realistic Model Reference Computed Torque Control Strategy for Human Lower Limb Exoskeletons**, SK Hasan et.al., Paper: [http://arxiv.org/abs/2410.07200v1](http://arxiv.org/abs/2410.07200v1)
