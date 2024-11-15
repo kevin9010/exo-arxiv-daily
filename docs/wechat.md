@@ -1632,6 +1632,7 @@
 
 ## Exoskeleton
 
+- 2024-11-14, **Learning Hand State Estimation for a Light Exoskeleton**, Gabriele Abbate et.al., Paper: [http://arxiv.org/abs/2411.09294v1](http://arxiv.org/abs/2411.09294v1)
 - 2024-11-13, **A Cost-effective, Stand-alone, and Real-time TinyML-Based Gait Diagnosis Unit Aimed at Lower-limb Robotic Prostheses and Exoskeletons**, Zarin Anjum Madhiha et.al., Paper: [http://arxiv.org/abs/2411.08474v1](http://arxiv.org/abs/2411.08474v1)
 - 2024-11-12, **Point Cloud Context Analysis for Rehabilitation Grasping Assistance**, Jackson M. Steinkamp et.al., Paper: [http://arxiv.org/abs/2411.08169v1](http://arxiv.org/abs/2411.08169v1)
 - 2024-10-23, **Reconfigurable Hydrostatics: Toward Multifunctional and Powerful Wearable Robotics**, Jeff Denis et.al., Paper: [http://arxiv.org/abs/2410.17936v1](http://arxiv.org/abs/2410.17936v1)
