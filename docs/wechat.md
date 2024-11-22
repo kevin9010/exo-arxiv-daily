@@ -1632,6 +1632,8 @@
 
 ## Exoskeleton
 
+- 2024-11-21, **A Simulated real-world upper-body Exoskeleton Accident and Investigation**, Alan Winfield et.al., Paper: [http://arxiv.org/abs/2411.14008v1](http://arxiv.org/abs/2411.14008v1)
+- 2024-11-21, **A Novel Passive Occupational Shoulder Exoskeleton With Adjustable Peak Assistive Torque Angle For Overhead Tasks**, Jin Tian et.al., Paper: [http://arxiv.org/abs/2411.13770v1](http://arxiv.org/abs/2411.13770v1)
 - 2024-11-20, **Locomotion Mode Transitions: Tackling System- and User-Specific Variability in Lower-Limb Exoskeletons**, Andrea Dal Prete et.al., Paper: [http://arxiv.org/abs/2411.12573v2](http://arxiv.org/abs/2411.12573v2)
 - 2024-11-18, **Assistive Control of Knee Exoskeletons for Human Walking on Granular Terrains**, Chunchu Zhu et.al., Paper: [http://arxiv.org/abs/2411.11777v1](http://arxiv.org/abs/2411.11777v1)
 - 2024-11-14, **Learning Hand State Estimation for a Light Exoskeleton**, Gabriele Abbate et.al., Paper: [http://arxiv.org/abs/2411.09294v1](http://arxiv.org/abs/2411.09294v1)
