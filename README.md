@@ -1652,6 +1652,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**|Silas Ruhrberg Estévez et.al.|[2411.16273v1](http://arxiv.org/abs/2411.16273v1)|null|
+|**2024-11-23**|**Effects of Muscle Synergy during Overhead Work with a Passive Shoulder Exoskeleton: A Case Study**|Jin Tian et.al.|[2411.15504v1](http://arxiv.org/abs/2411.15504v1)|null|
+|**2024-11-22**|**Personalization of Wearable Sensor-Based Joint Kinematic Estimation Using Computer Vision for Hip Exoskeleton Applications**|Changseob Song et.al.|[2411.15366v1](http://arxiv.org/abs/2411.15366v1)|null|
 |**2024-11-21**|**A Simulated real-world upper-body Exoskeleton Accident and Investigation**|Alan Winfield et.al.|[2411.14008v1](http://arxiv.org/abs/2411.14008v1)|null|
 |**2024-11-24**|**A Novel Passive Occupational Shoulder Exoskeleton With Adjustable Peak Assistive Torque Angle For Overhead Tasks**|Jin Tian et.al.|[2411.13770v2](http://arxiv.org/abs/2411.13770v2)|null|
 |**2024-11-20**|**Locomotion Mode Transitions: Tackling System- and User-Specific Variability in Lower-Limb Exoskeletons**|Andrea Dal Prete et.al.|[2411.12573v2](http://arxiv.org/abs/2411.12573v2)|null|
