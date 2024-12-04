@@ -1632,6 +1632,7 @@
 
 ## Exoskeleton
 
+- 2024-12-03, **Haptic Stiffness Perception Using Hand Exoskeletons in Tactile Robotic Telemanipulation**, Gabriele Giudici et.al., Paper: [http://arxiv.org/abs/2412.02613v1](http://arxiv.org/abs/2412.02613v1)
 - 2024-11-25, **Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**, Silas Ruhrberg Estévez et.al., Paper: [http://arxiv.org/abs/2411.16273v1](http://arxiv.org/abs/2411.16273v1)
 - 2024-11-23, **Effects of Muscle Synergy during Overhead Work with a Passive Shoulder Exoskeleton: A Case Study**, Jin Tian et.al., Paper: [http://arxiv.org/abs/2411.15504v1](http://arxiv.org/abs/2411.15504v1)
 - 2024-11-22, **Personalization of Wearable Sensor-Based Joint Kinematic Estimation Using Computer Vision for Hip Exoskeleton Applications**, Changseob Song et.al., Paper: [http://arxiv.org/abs/2411.15366v1](http://arxiv.org/abs/2411.15366v1)
