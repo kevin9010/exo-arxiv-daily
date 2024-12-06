@@ -1632,6 +1632,7 @@
 
 ## Exoskeleton
 
+- 2024-12-05, **Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation**, Yi-Hung Chiu et.al., Paper: [http://arxiv.org/abs/2412.03949v1](http://arxiv.org/abs/2412.03949v1)
 - 2024-12-04, **Multi-Momentum Observer Contact Estimation for Bipedal Robots**, J. Joe Payne et.al., Paper: [http://arxiv.org/abs/2412.03462v1](http://arxiv.org/abs/2412.03462v1)
 - 2024-12-03, **Haptic Stiffness Perception Using Hand Exoskeletons in Tactile Robotic Telemanipulation**, Gabriele Giudici et.al., Paper: [http://arxiv.org/abs/2412.02613v1](http://arxiv.org/abs/2412.02613v1)
 - 2024-11-25, **Deep Learning for Motion Classification in Ankle Exoskeletons Using Surface EMG and IMU Signals**, Silas Ruhrberg Estévez et.al., Paper: [http://arxiv.org/abs/2411.16273v1](http://arxiv.org/abs/2411.16273v1)
