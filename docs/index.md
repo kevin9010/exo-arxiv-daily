@@ -1656,6 +1656,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Augmented reality for upper limb rehabilitation: real-time kinematic feedback with HoloLens 2**|Beatrice Luciani et.al.|[2412.06596v1](http://arxiv.org/abs/2412.06596v1)|null|
 |**2024-12-05**|**Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation**|Yi-Hung Chiu et.al.|[2412.03949v1](http://arxiv.org/abs/2412.03949v1)|**[link](https://github.com/MetaMobilityLabCMU/speed-adaptive-agent)**|
 |**2024-12-04**|**Multi-Momentum Observer Contact Estimation for Bipedal Robots**|J. Joe Payne et.al.|[2412.03462v1](http://arxiv.org/abs/2412.03462v1)|null|
 |**2024-12-03**|**Haptic Stiffness Perception Using Hand Exoskeletons in Tactile Robotic Telemanipulation**|Gabriele Giudici et.al.|[2412.02613v1](http://arxiv.org/abs/2412.02613v1)|null|
