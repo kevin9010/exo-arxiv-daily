@@ -1656,7 +1656,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-09**|**Ground Perturbation Detection via Lower-Limb Kinematic States During Locomotion**|Maria T. Tagliaferri et.al.|[2412.06985v1](http://arxiv.org/abs/2412.06985v1)|null|
+|**2024-12-10**|**Deep-Learning Control of Lower-Limb Exoskeletons via simplified Therapist Input**|Lorenzo Vianello et.al.|[2412.07959v1](http://arxiv.org/abs/2412.07959v1)|null|
+|**2024-12-10**|**Optimizing Locomotor Task Sets in Biological Joint Moment Estimation for Hip Exoskeleton Applications**|Jimin An et.al.|[2412.07823v1](http://arxiv.org/abs/2412.07823v1)|null|
+|**2024-12-11**|**Ground Perturbation Detection via Lower-Limb Kinematic States During Locomotion**|Maria T. Tagliaferri et.al.|[2412.06985v2](http://arxiv.org/abs/2412.06985v2)|null|
 |**2024-12-09**|**Augmented reality for upper limb rehabilitation: real-time kinematic feedback with HoloLens 2**|Beatrice Luciani et.al.|[2412.06596v1](http://arxiv.org/abs/2412.06596v1)|null|
 |**2024-12-05**|**Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation**|Yi-Hung Chiu et.al.|[2412.03949v1](http://arxiv.org/abs/2412.03949v1)|**[link](https://github.com/MetaMobilityLabCMU/speed-adaptive-agent)**|
 |**2024-12-04**|**Multi-Momentum Observer Contact Estimation for Bipedal Robots**|J. Joe Payne et.al.|[2412.03462v1](http://arxiv.org/abs/2412.03462v1)|null|
