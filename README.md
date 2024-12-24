@@ -1652,6 +1652,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755v1](http://arxiv.org/abs/2412.16755v1)|null|
 |**2024-12-10**|**Deep-Learning Control of Lower-Limb Exoskeletons via simplified Therapist Input**|Lorenzo Vianello et.al.|[2412.07959v1](http://arxiv.org/abs/2412.07959v1)|null|
 |**2024-12-10**|**Optimizing Locomotor Task Sets in Biological Joint Moment Estimation for Hip Exoskeleton Applications**|Jimin An et.al.|[2412.07823v1](http://arxiv.org/abs/2412.07823v1)|null|
 |**2024-12-11**|**Ground Perturbation Detection via Lower-Limb Kinematic States During Locomotion**|Maria T. Tagliaferri et.al.|[2412.06985v2](http://arxiv.org/abs/2412.06985v2)|null|
