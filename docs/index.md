@@ -1634,7 +1634,7 @@ layout: default
 |**2024-09-19**|**A Soft Robotic Exosuit For Knee Extension Using Hyper-Bending Actuators**|Tuo Liu et.al.|[2410.02802v1](http://arxiv.org/abs/2410.02802v1)|null|
 |**2024-07-17**|**Force Profiling of a Shoulder Bidirectional Fabric-based Pneumatic Actuator for a Pediatric Exosuit**|Mehrnoosh Ayazi et.al.|[2407.12978v1](http://arxiv.org/abs/2407.12978v1)|null|
 |**2024-06-26**|**Sensorless model-based tension control for a cable-driven exosuit**|Elena Bardi et.al.|[2406.18412v1](http://arxiv.org/abs/2406.18412v1)|null|
-|**2024-07-04**|**ESI-GAL: EEG Source Imaging-based Kinematics Parameter Estimation for Grasp and Lift Task**|Anant Jain et.al.|[2406.11500v3](http://arxiv.org/abs/2406.11500v3)|null|
+|**2024-12-30**|**ESI-GAL: EEG Source Imaging-based Trajectory Estimation for Grasp and Lift Task**|Anant Jain et.al.|[2406.11500v4](http://arxiv.org/abs/2406.11500v4)|null|
 |**2024-04-08**|**Stretchable Pneumatic Sleeve for Adaptable, Low-Displacement Anchoring in Exosuits**|Katalin Schaffer et.al.|[2403.04729v2](http://arxiv.org/abs/2403.04729v2)|null|
 |**2024-03-08**|**Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration**|Julian Rodemann et.al.|[2403.04629v2](http://arxiv.org/abs/2403.04629v2)|null|
 |**2024-02-04**|**Smart Textile-Driven Soft Spine Exosuit for Lifting Tasks in Industrial Applications**|Kefan Zhu et.al.|[2402.02319v1](http://arxiv.org/abs/2402.02319v1)|null|
