@@ -1632,6 +1632,7 @@
 
 ## Exoskeleton
 
+- 2025-01-15, **A Learning Algorithm That Attains the Human Optimum in a Repeated Human-Machine Interaction Game**, Jason T. Isa et.al., Paper: [http://arxiv.org/abs/2501.08626v1](http://arxiv.org/abs/2501.08626v1)
 - 2025-01-02, **Revealing diatom-inspired materials multifunctionality**, Ludovico Musenich et.al., Paper: [http://arxiv.org/abs/2501.01229v1](http://arxiv.org/abs/2501.01229v1)
 - 2024-12-21, **A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**, Shahid Ansari et.al., Paper: [http://arxiv.org/abs/2412.16755v1](http://arxiv.org/abs/2412.16755v1)
 - 2024-12-10, **Deep-Learning Control of Lower-Limb Exoskeletons via simplified Therapist Input**, Lorenzo Vianello et.al., Paper: [http://arxiv.org/abs/2412.07959v1](http://arxiv.org/abs/2412.07959v1)
