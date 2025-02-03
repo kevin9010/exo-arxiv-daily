@@ -1652,6 +1652,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Designing Kresling Origami for Personalised Wrist Orthosis**|Chenying Liu et.al.|[2501.18796v1](http://arxiv.org/abs/2501.18796v1)|null|
 |**2025-01-15**|**A Learning Algorithm That Attains the Human Optimum in a Repeated Human-Machine Interaction Game**|Jason T. Isa et.al.|[2501.08626v1](http://arxiv.org/abs/2501.08626v1)|null|
 |**2025-01-02**|**Revealing diatom-inspired materials multifunctionality**|Ludovico Musenich et.al.|[2501.01229v1](http://arxiv.org/abs/2501.01229v1)|null|
 |**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755v1](http://arxiv.org/abs/2412.16755v1)|null|
