@@ -1608,6 +1608,7 @@
 
 ## Exosuit
 
+- 2025-02-07, **Switch-based Independent Antagonist Actuation with a Single Motor for a Soft Exosuit**, Atharva Vadeyar et.al., Paper: [http://arxiv.org/abs/2502.05290v1](http://arxiv.org/abs/2502.05290v1)
 - 2024-10-15, **Using Zone Inflation and Volume Transfer to Design a Fabric-based Pneumatic Exosuit with both Efficiency and Wearability**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2410.11341v1](http://arxiv.org/abs/2410.11341v1)
 - 2024-09-19, **A Soft Robotic Exosuit For Knee Extension Using Hyper-Bending Actuators**, Tuo Liu et.al., Paper: [http://arxiv.org/abs/2410.02802v1](http://arxiv.org/abs/2410.02802v1)
 - 2024-07-17, **Force Profiling of a Shoulder Bidirectional Fabric-based Pneumatic Actuator for a Pediatric Exosuit**, Mehrnoosh Ayazi et.al., Paper: [http://arxiv.org/abs/2407.12978v1](http://arxiv.org/abs/2407.12978v1)
@@ -1632,6 +1633,7 @@
 
 ## Exoskeleton
 
+- 2025-02-09, **Redefining Robot Generalization Through Interactive Intelligence**, Sharmita Dey et.al., Paper: [http://arxiv.org/abs/2502.05963v1](http://arxiv.org/abs/2502.05963v1)
 - 2025-01-30, **Designing Kresling Origami for Personalised Wrist Orthosis**, Chenying Liu et.al., Paper: [http://arxiv.org/abs/2501.18796v1](http://arxiv.org/abs/2501.18796v1)
 - 2025-01-15, **A Learning Algorithm That Attains the Human Optimum in a Repeated Human-Machine Interaction Game**, Jason T. Isa et.al., Paper: [http://arxiv.org/abs/2501.08626v1](http://arxiv.org/abs/2501.08626v1)
 - 2025-01-02, **Revealing diatom-inspired materials multifunctionality**, Ludovico Musenich et.al., Paper: [http://arxiv.org/abs/2501.01229v1](http://arxiv.org/abs/2501.01229v1)
