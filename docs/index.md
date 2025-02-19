@@ -1657,6 +1657,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit**|Qingwei Ben et.al.|[2502.13013v1](http://arxiv.org/abs/2502.13013v1)|null|
+|**2025-02-18**|**ExoKit: A Toolkit for Rapid Prototyping of Interactions for Arm-based Exoskeletons**|Marie Muehlhaus et.al.|[2502.12747v1](http://arxiv.org/abs/2502.12747v1)|null|
 |**2025-02-09**|**Redefining Robot Generalization Through Interactive Intelligence**|Sharmita Dey et.al.|[2502.05963v1](http://arxiv.org/abs/2502.05963v1)|null|
 |**2025-01-30**|**Designing Kresling Origami for Personalised Wrist Orthosis**|Chenying Liu et.al.|[2501.18796v1](http://arxiv.org/abs/2501.18796v1)|null|
 |**2025-01-15**|**A Learning Algorithm That Attains the Human Optimum in a Repeated Human-Machine Interaction Game**|Jason T. Isa et.al.|[2501.08626v1](http://arxiv.org/abs/2501.08626v1)|null|
