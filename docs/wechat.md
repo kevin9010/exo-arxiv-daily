@@ -1633,6 +1633,7 @@
 
 ## Exoskeleton
 
+- 2025-02-21, **Rapid Online Learning of Hip Exoskeleton Assistance Preferences**, Giulia Ramella et.al., Paper: [http://arxiv.org/abs/2502.15366v1](http://arxiv.org/abs/2502.15366v1)
 - 2025-02-18, **HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit**, Qingwei Ben et.al., Paper: [http://arxiv.org/abs/2502.13013v1](http://arxiv.org/abs/2502.13013v1)
 - 2025-02-18, **ExoKit: A Toolkit for Rapid Prototyping of Interactions for Arm-based Exoskeletons**, Marie Muehlhaus et.al., Paper: [http://arxiv.org/abs/2502.12747v1](http://arxiv.org/abs/2502.12747v1), Code: **[https://github.com/hci-lab-saarland/exokit](https://github.com/hci-lab-saarland/exokit)**
 - 2025-02-09, **Redefining Robot Generalization Through Interactive Intelligence**, Sharmita Dey et.al., Paper: [http://arxiv.org/abs/2502.05963v1](http://arxiv.org/abs/2502.05963v1)
