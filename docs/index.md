@@ -1657,6 +1657,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Leg Exoskeleton Odometry using a Limited FOV Depth Sensor**|Fabio Elnecave Xavier et.al.|[2502.19237v1](http://arxiv.org/abs/2502.19237v1)|null|
 |**2025-02-21**|**Rapid Online Learning of Hip Exoskeleton Assistance Preferences**|Giulia Ramella et.al.|[2502.15366v1](http://arxiv.org/abs/2502.15366v1)|null|
 |**2025-02-18**|**HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit**|Qingwei Ben et.al.|[2502.13013v1](http://arxiv.org/abs/2502.13013v1)|null|
 |**2025-02-18**|**ExoKit: A Toolkit for Rapid Prototyping of Interactions for Arm-based Exoskeletons**|Marie Muehlhaus et.al.|[2502.12747v1](http://arxiv.org/abs/2502.12747v1)|**[link](https://github.com/hci-lab-saarland/exokit)**|
