@@ -1657,6 +1657,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-03**|**Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**|Xintao Chao et.al.|[2503.01543v1](http://arxiv.org/abs/2503.01543v1)|null|
+|**2025-03-03**|**Flexible Exoskeleton Control Based on Binding Alignment Strategy and Full-arm Coordination Mechanism**|Chuang Cheng et.al.|[2503.01338v1](http://arxiv.org/abs/2503.01338v1)|null|
+|**2025-03-02**|**Detecting Heel Strike and toe off Events Using Kinematic Methods and LSTM Models**|Longbin Zhang et.al.|[2503.00794v1](http://arxiv.org/abs/2503.00794v1)|null|
+|**2025-03-01**|**A Practical Sensing Interface for Exoskeleton Evaluation in Workplaces using Interface Forces**|Joshua Leong Wei Ren et.al.|[2503.00293v1](http://arxiv.org/abs/2503.00293v1)|null|
 |**2025-02-26**|**Leg Exoskeleton Odometry using a Limited FOV Depth Sensor**|Fabio Elnecave Xavier et.al.|[2502.19237v1](http://arxiv.org/abs/2502.19237v1)|null|
 |**2025-02-21**|**Rapid Online Learning of Hip Exoskeleton Assistance Preferences**|Giulia Ramella et.al.|[2502.15366v1](http://arxiv.org/abs/2502.15366v1)|null|
 |**2025-02-18**|**HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit**|Qingwei Ben et.al.|[2502.13013v1](http://arxiv.org/abs/2502.13013v1)|null|
