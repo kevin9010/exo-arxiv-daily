@@ -1633,6 +1633,8 @@
 
 ## Exoskeleton
 
+- 2025-03-05, **Adaptive Negative Damping Control for User-Dependent Multi-Terrain Walking Assistance with a Hip Exoskeleton**, Giulia Ramella et.al., Paper: [http://arxiv.org/abs/2503.03662v1](http://arxiv.org/abs/2503.03662v1)
+- 2025-03-05, **AirExo-2: Scaling up Generalizable Robotic Imitation Learning with Low-Cost Exoskeletons**, Hongjie Fang et.al., Paper: [http://arxiv.org/abs/2503.03081v1](http://arxiv.org/abs/2503.03081v1)
 - 2025-03-03, **Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**, Xintao Chao et.al., Paper: [http://arxiv.org/abs/2503.01543v1](http://arxiv.org/abs/2503.01543v1)
 - 2025-03-03, **Flexible Exoskeleton Control Based on Binding Alignment Strategy and Full-arm Coordination Mechanism**, Chuang Cheng et.al., Paper: [http://arxiv.org/abs/2503.01338v1](http://arxiv.org/abs/2503.01338v1)
 - 2025-03-02, **Detecting Heel Strike and toe off Events Using Kinematic Methods and LSTM Models**, Longbin Zhang et.al., Paper: [http://arxiv.org/abs/2503.00794v1](http://arxiv.org/abs/2503.00794v1)
