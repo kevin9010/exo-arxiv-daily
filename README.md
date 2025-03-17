@@ -1653,6 +1653,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Exo-muscle: A semi-rigid assistive device for the knee**|Yifang Zhang et.al.|[2503.11474v1](http://arxiv.org/abs/2503.11474v1)|null|
+|**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433v1](http://arxiv.org/abs/2503.11433v1)|null|
 |**2025-03-13**|**NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots**|Rui Zhong et.al.|[2503.10554v1](http://arxiv.org/abs/2503.10554v1)|null|
 |**2025-03-10**|**Real-Time Load Estimation for Load-lifting Exoskeletons Using Insole Pressure Sensors and Machine Learning**|Kaida Wu et.al.|[2503.07527v1](http://arxiv.org/abs/2503.07527v1)|null|
 |**2025-03-05**|**Adaptive Negative Damping Control for User-Dependent Multi-Terrain Walking Assistance with a Hip Exoskeleton**|Giulia Ramella et.al.|[2503.03662v1](http://arxiv.org/abs/2503.03662v1)|null|
