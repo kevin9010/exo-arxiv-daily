@@ -1657,6 +1657,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**|Wenbo Li et.al.|[2503.15915v1](http://arxiv.org/abs/2503.15915v1)|null|
 |**2025-03-14**|**Exo-muscle: A semi-rigid assistive device for the knee**|Yifang Zhang et.al.|[2503.11474v1](http://arxiv.org/abs/2503.11474v1)|null|
 |**2025-03-14**|**Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**|Andrés Chavarrías et.al.|[2503.11433v1](http://arxiv.org/abs/2503.11433v1)|null|
 |**2025-03-13**|**NuExo: A Wearable Exoskeleton Covering all Upper Limb ROM for Outdoor Data Collection and Teleoperation of Humanoid Robots**|Rui Zhong et.al.|[2503.10554v1](http://arxiv.org/abs/2503.10554v1)|null|
