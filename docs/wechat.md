@@ -1633,6 +1633,7 @@
 
 ## Exoskeleton
 
+- 2025-03-21, **Deep Learning for Human Locomotion Analysis in Lower-Limb Exoskeletons: A Comparative Study**, Omar Coser et.al., Paper: [http://arxiv.org/abs/2503.16904v1](http://arxiv.org/abs/2503.16904v1)
 - 2025-03-20, **Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**, Wenbo Li et.al., Paper: [http://arxiv.org/abs/2503.15915v1](http://arxiv.org/abs/2503.15915v1)
 - 2025-03-14, **Exo-muscle: A semi-rigid assistive device for the knee**, Yifang Zhang et.al., Paper: [http://arxiv.org/abs/2503.11474v1](http://arxiv.org/abs/2503.11474v1)
 - 2025-03-14, **Adaptive Torque Control of Exoskeletons under Spasticity Conditions via Reinforcement Learning**, Andrés Chavarrías et.al., Paper: [http://arxiv.org/abs/2503.11433v1](http://arxiv.org/abs/2503.11433v1)
