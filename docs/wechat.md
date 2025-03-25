@@ -1608,6 +1608,7 @@
 
 ## Exosuit
 
+- 2025-03-24, **Analysis of Forces Exerted by Shoulder and Elbow Fabric-based Pneumatic Actuators for Pediatric Exosuits**, Mehrnoosh Ayazi et.al., Paper: [http://arxiv.org/abs/2503.18376v1](http://arxiv.org/abs/2503.18376v1)
 - 2025-02-07, **Switch-based Independent Antagonist Actuation with a Single Motor for a Soft Exosuit**, Atharva Vadeyar et.al., Paper: [http://arxiv.org/abs/2502.05290v1](http://arxiv.org/abs/2502.05290v1)
 - 2024-10-15, **Using Zone Inflation and Volume Transfer to Design a Fabric-based Pneumatic Exosuit with both Efficiency and Wearability**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2410.11341v1](http://arxiv.org/abs/2410.11341v1)
 - 2024-09-19, **A Soft Robotic Exosuit For Knee Extension Using Hyper-Bending Actuators**, Tuo Liu et.al., Paper: [http://arxiv.org/abs/2410.02802v1](http://arxiv.org/abs/2410.02802v1)
@@ -1633,6 +1634,7 @@
 
 ## Exoskeleton
 
+- 2025-03-23, **Assist-as-needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-loop Optimization**, Yuepeng Qian et.al., Paper: [http://arxiv.org/abs/2503.18051v1](http://arxiv.org/abs/2503.18051v1)
 - 2025-03-21, **Deep Learning for Human Locomotion Analysis in Lower-Limb Exoskeletons: A Comparative Study**, Omar Coser et.al., Paper: [http://arxiv.org/abs/2503.16904v1](http://arxiv.org/abs/2503.16904v1)
 - 2025-03-20, **Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**, Wenbo Li et.al., Paper: [http://arxiv.org/abs/2503.15915v1](http://arxiv.org/abs/2503.15915v1)
 - 2025-03-14, **Exo-muscle: A semi-rigid assistive device for the knee**, Yifang Zhang et.al., Paper: [http://arxiv.org/abs/2503.11474v1](http://arxiv.org/abs/2503.11474v1)
