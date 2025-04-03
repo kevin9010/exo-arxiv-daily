@@ -1634,6 +1634,7 @@
 
 ## Exoskeleton
 
+- 2025-04-02, **A novel gesture interaction control method for rehabilitation lower extremity exoskeleton**, Shuang Qiu et.al., Paper: [http://arxiv.org/abs/2504.01888v1](http://arxiv.org/abs/2504.01888v1)
 - 2025-03-23, **Assist-as-needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-loop Optimization**, Yuepeng Qian et.al., Paper: [http://arxiv.org/abs/2503.18051v1](http://arxiv.org/abs/2503.18051v1)
 - 2025-03-21, **Deep Learning for Human Locomotion Analysis in Lower-Limb Exoskeletons: A Comparative Study**, Omar Coser et.al., Paper: [http://arxiv.org/abs/2503.16904v1](http://arxiv.org/abs/2503.16904v1)
 - 2025-03-20, **Development of a Magnetorheological Hand Exoskeleton Featuring High Force-to-power Ratio for Enhancing Grip Endurance**, Wenbo Li et.al., Paper: [http://arxiv.org/abs/2503.15915v1](http://arxiv.org/abs/2503.15915v1)
