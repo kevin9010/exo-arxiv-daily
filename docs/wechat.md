@@ -1634,6 +1634,8 @@
 
 ## Exoskeleton
 
+- 2025-04-14, **Ankle Exoskeletons in Walking and Load-Carrying Tasks: Insights into Biomechanics and Human-Robot Interaction**, J. F. Almeida et.al., Paper: [http://arxiv.org/abs/2504.10294v1](http://arxiv.org/abs/2504.10294v1)
+- 2025-04-14, **A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems**, Emir Mobedi et.al., Paper: [http://arxiv.org/abs/2504.10066v1](http://arxiv.org/abs/2504.10066v1)
 - 2025-04-04, **MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance**, Chen Hu et.al., Paper: [http://arxiv.org/abs/2504.03379v1](http://arxiv.org/abs/2504.03379v1)
 - 2025-04-04, **Point Cloud-based Grasping for Soft Hand Exoskeleton**, Chen Hu et.al., Paper: [http://arxiv.org/abs/2504.03369v1](http://arxiv.org/abs/2504.03369v1)
 - 2025-04-02, **A novel gesture interaction control method for rehabilitation lower extremity exoskeleton**, Shuang Qiu et.al., Paper: [http://arxiv.org/abs/2504.01888v1](http://arxiv.org/abs/2504.01888v1)
