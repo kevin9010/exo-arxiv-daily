@@ -1608,6 +1608,7 @@
 
 ## Exosuit
 
+- 2025-04-24, **Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies**, Adrian Esser et.al., Paper: [http://arxiv.org/abs/2504.17736v1](http://arxiv.org/abs/2504.17736v1)
 - 2025-03-24, **Analysis of Forces Exerted by Shoulder and Elbow Fabric-based Pneumatic Actuators for Pediatric Exosuits**, Mehrnoosh Ayazi et.al., Paper: [http://arxiv.org/abs/2503.18376v1](http://arxiv.org/abs/2503.18376v1)
 - 2025-02-07, **Switch-based Independent Antagonist Actuation with a Single Motor for a Soft Exosuit**, Atharva Vadeyar et.al., Paper: [http://arxiv.org/abs/2502.05290v1](http://arxiv.org/abs/2502.05290v1)
 - 2024-10-15, **Using Zone Inflation and Volume Transfer to Design a Fabric-based Pneumatic Exosuit with both Efficiency and Wearability**, Chendong Liu et.al., Paper: [http://arxiv.org/abs/2410.11341v1](http://arxiv.org/abs/2410.11341v1)
@@ -1634,6 +1635,7 @@
 
 ## Exoskeleton
 
+- 2025-04-24, **Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies**, Adrian Esser et.al., Paper: [http://arxiv.org/abs/2504.17736v1](http://arxiv.org/abs/2504.17736v1)
 - 2025-04-22, **Vision Controlled Orthotic Hand Exoskeleton**, Connor Blais et.al., Paper: [http://arxiv.org/abs/2504.16319v1](http://arxiv.org/abs/2504.16319v1)
 - 2025-04-21, **Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**, Ehsan Ahmadi et.al., Paper: [http://arxiv.org/abs/2504.15263v1](http://arxiv.org/abs/2504.15263v1)
 - 2025-04-14, **Ankle Exoskeletons in Walking and Load-Carrying Tasks: Insights into Biomechanics and Human-Robot Interaction**, J. F. Almeida et.al., Paper: [http://arxiv.org/abs/2504.10294v1](http://arxiv.org/abs/2504.10294v1)
