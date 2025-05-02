@@ -1655,6 +1655,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Real-Time Brain-Computer Interface Control of Walking Exoskeleton with Bilateral Sensory Feedback**|Jeffrey Lim et.al.|[2505.00219v1](http://arxiv.org/abs/2505.00219v1)|null|
+|**2025-04-30**|**Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**|Yasin Findik et.al.|[2505.00201v1](http://arxiv.org/abs/2505.00201v1)|null|
 |**2025-04-25**|**The Foundation for Developing an Exoskeleton for the Rehabilitation of Temporomandibular Disorders**|Paul-Otto Müller et.al.|[2504.18379v1](http://arxiv.org/abs/2504.18379v1)|null|
 |**2025-04-24**|**Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies**|Adrian Esser et.al.|[2504.17736v1](http://arxiv.org/abs/2504.17736v1)|null|
 |**2025-04-22**|**Vision Controlled Orthotic Hand Exoskeleton**|Connor Blais et.al.|[2504.16319v1](http://arxiv.org/abs/2504.16319v1)|null|
