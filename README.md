@@ -1658,7 +1658,7 @@
 |**2025-05-02**|**Desired Impedance Allocation for Robotic Systems**|Mahdi Hejrati et.al.|[2505.01308v1](http://arxiv.org/abs/2505.01308v1)|null|
 |**2025-04-30**|**Real-Time Brain-Computer Interface Control of Walking Exoskeleton with Bilateral Sensory Feedback**|Jeffrey Lim et.al.|[2505.00219v1](http://arxiv.org/abs/2505.00219v1)|null|
 |**2025-04-30**|**Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**|Yasin Findik et.al.|[2505.00201v1](http://arxiv.org/abs/2505.00201v1)|null|
-|**2025-05-02**|**The Foundation for Developing an Exoskeleton for the Rehabilitation of Temporomandibular Disorders**|Paul-Otto Müller et.al.|[2504.18379v2](http://arxiv.org/abs/2504.18379v2)|null|
+|**2025-05-02**|**The Foundation for Developing an Exoskeleton for the Rehabilitation of Temporomandibular Disorders**|Paul-Otto Müller et.al.|[2504.18379v2](http://arxiv.org/abs/2504.18379v2)|**[link](https://github.com/paulotto/exosim)**|
 |**2025-04-24**|**Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies**|Adrian Esser et.al.|[2504.17736v1](http://arxiv.org/abs/2504.17736v1)|null|
 |**2025-04-22**|**Vision Controlled Orthotic Hand Exoskeleton**|Connor Blais et.al.|[2504.16319v1](http://arxiv.org/abs/2504.16319v1)|null|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263v1](http://arxiv.org/abs/2504.15263v1)|null|
