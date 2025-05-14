@@ -1635,6 +1635,7 @@
 
 ## Exoskeleton
 
+- 2025-05-13, **Load-independent Metrics for Benchmarking Force Controllers**, Victor Shime et.al., Paper: [http://arxiv.org/abs/2505.08730v1](http://arxiv.org/abs/2505.08730v1)
 - 2025-05-02, **Desired Impedance Allocation for Robotic Systems**, Mahdi Hejrati et.al., Paper: [http://arxiv.org/abs/2505.01308v1](http://arxiv.org/abs/2505.01308v1)
 - 2025-04-30, **Real-Time Brain-Computer Interface Control of Walking Exoskeleton with Bilateral Sensory Feedback**, Jeffrey Lim et.al., Paper: [http://arxiv.org/abs/2505.00219v1](http://arxiv.org/abs/2505.00219v1)
 - 2025-04-30, **Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**, Yasin Findik et.al., Paper: [http://arxiv.org/abs/2505.00201v1](http://arxiv.org/abs/2505.00201v1)
