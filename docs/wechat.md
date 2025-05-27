@@ -1635,6 +1635,7 @@
 
 ## Exoskeleton
 
+- 2025-05-24, **Literature review on assistive technologies for people with Parkinson's disease**, Subek Acharya et.al., Paper: [http://arxiv.org/abs/2505.18862v1](http://arxiv.org/abs/2505.18862v1)
 - 2025-05-23, **ExoGait-MS: Learning Periodic Dynamics with Multi-Scale Graph Network for Exoskeleton Gait Recognition**, Lijiang Liu et.al., Paper: [http://arxiv.org/abs/2505.18018v1](http://arxiv.org/abs/2505.18018v1)
 - 2025-05-25, **Robust Immersive Bilateral Teleoperation of Beyond-Human-Scale Systems with Enhanced Transparency and Sense of Embodiment**, Mahdi Hejrati et.al., Paper: [http://arxiv.org/abs/2505.14486v2](http://arxiv.org/abs/2505.14486v2)
 - 2025-05-19, **TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation**, Hangyu Li et.al., Paper: [http://arxiv.org/abs/2505.12748v1](http://arxiv.org/abs/2505.12748v1)
