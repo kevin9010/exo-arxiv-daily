@@ -1659,6 +1659,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Ergonomic Assessment of Work Activities for an Industrial-oriented Wrist Exoskeleton**|Roberto F. Pitzalis et.al.|[2505.20939v1](http://arxiv.org/abs/2505.20939v1)|null|
 |**2025-05-24**|**Literature review on assistive technologies for people with Parkinson's disease**|Subek Acharya et.al.|[2505.18862v1](http://arxiv.org/abs/2505.18862v1)|null|
 |**2025-05-23**|**ExoGait-MS: Learning Periodic Dynamics with Multi-Scale Graph Network for Exoskeleton Gait Recognition**|Lijiang Liu et.al.|[2505.18018v1](http://arxiv.org/abs/2505.18018v1)|null|
 |**2025-05-25**|**Robust Immersive Bilateral Teleoperation of Beyond-Human-Scale Systems with Enhanced Transparency and Sense of Embodiment**|Mahdi Hejrati et.al.|[2505.14486v2](http://arxiv.org/abs/2505.14486v2)|null|
