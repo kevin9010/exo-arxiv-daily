@@ -1635,6 +1635,7 @@
 
 ## Exoskeleton
 
+- 2025-05-28, **DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**, Mengda Xu et.al., Paper: [http://arxiv.org/abs/2505.21864v1](http://arxiv.org/abs/2505.21864v1)
 - 2025-05-27, **Ergonomic Assessment of Work Activities for an Industrial-oriented Wrist Exoskeleton**, Roberto F. Pitzalis et.al., Paper: [http://arxiv.org/abs/2505.20939v1](http://arxiv.org/abs/2505.20939v1)
 - 2025-05-24, **Literature review on assistive technologies for people with Parkinson's disease**, Subek Acharya et.al., Paper: [http://arxiv.org/abs/2505.18862v1](http://arxiv.org/abs/2505.18862v1)
 - 2025-05-23, **ExoGait-MS: Learning Periodic Dynamics with Multi-Scale Graph Network for Exoskeleton Gait Recognition**, Lijiang Liu et.al., Paper: [http://arxiv.org/abs/2505.18018v1](http://arxiv.org/abs/2505.18018v1)
