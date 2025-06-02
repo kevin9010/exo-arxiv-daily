@@ -1655,6 +1655,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**How can AI reduce wrist injuries in the workplace?**|Roberto F. Pitzalis et.al.|[2505.24510v1](http://arxiv.org/abs/2505.24510v1)|null|
 |**2025-05-29**|**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**|Mengda Xu et.al.|[2505.21864v2](http://arxiv.org/abs/2505.21864v2)|null|
 |**2025-05-27**|**Ergonomic Assessment of Work Activities for an Industrial-oriented Wrist Exoskeleton**|Roberto F. Pitzalis et.al.|[2505.20939v1](http://arxiv.org/abs/2505.20939v1)|null|
 |**2025-05-24**|**Literature review on assistive technologies for people with Parkinson's disease**|Subek Acharya et.al.|[2505.18862v1](http://arxiv.org/abs/2505.18862v1)|null|
