@@ -1659,6 +1659,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982v1](http://arxiv.org/abs/2506.04982v1)|null|
+|**2025-06-05**|**Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**|Ping-Kong Huang et.al.|[2506.04680v1](http://arxiv.org/abs/2506.04680v1)|null|
 |**2025-05-30**|**How can AI reduce wrist injuries in the workplace?**|Roberto F. Pitzalis et.al.|[2505.24510v1](http://arxiv.org/abs/2505.24510v1)|null|
 |**2025-05-29**|**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**|Mengda Xu et.al.|[2505.21864v2](http://arxiv.org/abs/2505.21864v2)|null|
 |**2025-05-27**|**Ergonomic Assessment of Work Activities for an Industrial-oriented Wrist Exoskeleton**|Roberto F. Pitzalis et.al.|[2505.20939v1](http://arxiv.org/abs/2505.20939v1)|null|
