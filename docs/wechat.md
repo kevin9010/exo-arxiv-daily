@@ -1635,6 +1635,7 @@
 
 ## Exoskeleton
 
+- 2025-06-13, **ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**, Zilin Si et.al., Paper: [http://arxiv.org/abs/2506.11775v1](http://arxiv.org/abs/2506.11775v1)
 - 2025-06-11, **Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations**, Chengtian Ma et.al., Paper: [http://arxiv.org/abs/2506.09383v1](http://arxiv.org/abs/2506.09383v1)
 - 2025-06-05, **GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**, Yunlong Dong et.al., Paper: [http://arxiv.org/abs/2506.04982v1](http://arxiv.org/abs/2506.04982v1), Code: **[https://github.com/democratizing-dexterous/libgex](https://github.com/democratizing-dexterous/libgex)**
 - 2025-06-05, **Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**, Ping-Kong Huang et.al., Paper: [http://arxiv.org/abs/2506.04680v1](http://arxiv.org/abs/2506.04680v1)

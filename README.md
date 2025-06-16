@@ -1655,6 +1655,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Zilin Si et.al.|[2506.11775v1](http://arxiv.org/abs/2506.11775v1)|null|
 |**2025-06-11**|**Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations**|Chengtian Ma et.al.|[2506.09383v1](http://arxiv.org/abs/2506.09383v1)|null|
 |**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982v1](http://arxiv.org/abs/2506.04982v1)|**[link](https://github.com/democratizing-dexterous/libgex)**|
 |**2025-06-05**|**Application of SDRE to Achieve Gait Control in a Bipedal Robot for Knee-Type Exoskeleton Testing**|Ping-Kong Huang et.al.|[2506.04680v1](http://arxiv.org/abs/2506.04680v1)|null|
